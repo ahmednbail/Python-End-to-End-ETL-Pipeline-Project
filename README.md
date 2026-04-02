@@ -1,32 +1,50 @@
 # Python-End-to-End-ETL-Pipeline-Project
 
-DataCraft Academy — ETL Pipeline Project: students build a complete Extract, Transform, Load pipeline using Python. They ingest data from APIs, databases, and CSV files, clean and transform it, load it into a Data Warehouse using a Star Schema, and generate BI reports and insights — simulating a real-world data engineering workflow.
+DataCraft Academy — end-to-end ETL in Python: extract from databases, files, and APIs; transform and stage data; load a star-schema data warehouse; support reporting and insights.
 
 ---
 
-## 🏪 Business case: Bike Store Sales Data Warehouse
+## We Want to Answer 3 Simple Questions
 
-### 🎯 Business context
+### 1. 💰 How much did we sell?
 
-A multi-store bicycle retail chain operates across multiple US states. Data comes from:
+- Total revenue per store
+- Total revenue per month
+- Which product sells the most?
 
-| Source | Data |
+### 2. 🚚 How fast do we deliver?
+
+- Are we delivering on time or late?
+- How many days does delivery take?
+
+### 3. 👤 Who are our customers?
+
+- Which state has the most customers?
+- Are customers local to the store or not?
+
+---
+
+## The Data We Have
+
+| Table | Role |
 |--------|------|
-| **PostgreSQL** (transactional) | Orders |
-| **Data lake** | Customers, products, staff, stocks |
-| **Live API** | Currency exchange rates |
+| **customers** | Who bought |
+| **orders** | When they bought |
+| **order_items** | What they bought and how much |
+| **products** | Product details |
+| **staffs** | Who sold it |
+| **stores** | Where it was sold |
 
-The goal is a data warehouse that unifies these sources so analytics can answer operational and commercial questions consistently.
+---
 
-### 📊 Key business questions
+## Goal 🎯
 
-| Business area | Questions |
-|---------------|-----------|
-| **Sales** | What is total revenue per store, per month, and per category? |
-| **Products** | Which brands and categories sell the most? |
-| **Customers** | Who are the top customers by revenue? Which cities and states buy the most? |
-| **Staff** | Which staff member generates the most sales? |
-| **Inventory** | Which stores are running low on stock? |
-| **Currency** | What is revenue in local currencies (USD → AED, EUR, etc.)? |
-
-These questions drive fact and dimension design, grain choices, and reporting in the star schema and downstream BI layer.
+```
+Take all these tables
+      ↓
+Clean & Transform
+      ↓
+Build a simple Star Schema DWH
+      ↓
+Answer the 3 business questions above
+```
