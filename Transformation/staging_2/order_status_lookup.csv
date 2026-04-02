@@ -1,0 +1,5 @@
+order_status,order_status_name
+1,Pending
+2,Processing
+3,Rejected
+4,Completed
