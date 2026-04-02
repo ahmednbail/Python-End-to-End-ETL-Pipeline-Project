@@ -1,0 +1,979 @@
+,store_name,city,state,product_name,brand_name,category_name,model_year,list_price,quantity,extraction_timestamp,data_source
+0,Santa Cruz Bikes,Santa Cruz,CA,Trek 820 - 2016,Trek,Mountain Bikes,2016,379.99,27,2026-04-01 21:38:58.421075,DataLake
+1,Santa Cruz Bikes,Santa Cruz,CA,Ritchey Timberwolf Frameset - 2016,Ritchey,Mountain Bikes,2016,749.99,5,2026-04-01 21:38:58.421075,DataLake
+2,Santa Cruz Bikes,Santa Cruz,CA,Surly Wednesday Frameset - 2016,Surly,Mountain Bikes,2016,999.99,6,2026-04-01 21:38:58.421075,DataLake
+3,Santa Cruz Bikes,Santa Cruz,CA,Trek Fuel EX 8 29 - 2016,Trek,Mountain Bikes,2016,2899.99,23,2026-04-01 21:38:58.421075,DataLake
+4,Santa Cruz Bikes,Santa Cruz,CA,Heller Shagamaw Frame - 2016,Heller,Mountain Bikes,2016,1320.99,22,2026-04-01 21:38:58.421075,DataLake
+5,Santa Cruz Bikes,Santa Cruz,CA,Surly Ice Cream Truck Frameset - 2016,Surly,Mountain Bikes,2016,469.99,0,2026-04-01 21:38:58.421075,DataLake
+6,Santa Cruz Bikes,Santa Cruz,CA,Trek Slash 8 27.5 - 2016,Trek,Mountain Bikes,2016,3999.99,8,2026-04-01 21:38:58.421075,DataLake
+7,Santa Cruz Bikes,Santa Cruz,CA,Trek Remedy 29 Carbon Frameset - 2016,Trek,Mountain Bikes,2016,1799.99,0,2026-04-01 21:38:58.421075,DataLake
+8,Santa Cruz Bikes,Santa Cruz,CA,Trek Conduit+ - 2016,Trek,Electric Bikes,2016,2999.99,11,2026-04-01 21:38:58.421075,DataLake
+9,Santa Cruz Bikes,Santa Cruz,CA,Surly Straggler - 2016,Surly,Cyclocross Bicycles,2016,1549.0,15,2026-04-01 21:38:58.421075,DataLake
+10,Santa Cruz Bikes,Santa Cruz,CA,Surly Straggler 650b - 2016,Surly,Cyclocross Bicycles,2016,1680.99,8,2026-04-01 21:38:58.421075,DataLake
+11,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Original 21D - 2016,Electra,Cruisers Bicycles,2016,549.99,16,2026-04-01 21:38:58.421075,DataLake
+12,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Original 21D - 2016,Electra,Cruisers Bicycles,2016,549.99,16,2026-04-01 21:38:58.421075,DataLake
+13,Santa Cruz Bikes,Santa Cruz,CA,Electra Cruiser 1 (24-Inch) - 2016,Electra,Cruisers Bicycles,2016,269.99,13,2026-04-01 21:38:58.421075,DataLake
+14,Santa Cruz Bikes,Santa Cruz,CA,Electra Cruiser 1 (24-Inch) - 2016,Electra,Cruisers Bicycles,2016,269.99,13,2026-04-01 21:38:58.421075,DataLake
+15,Santa Cruz Bikes,Santa Cruz,CA,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,Electra,Cruisers Bicycles,2016,269.99,8,2026-04-01 21:38:58.421075,DataLake
+16,Santa Cruz Bikes,Santa Cruz,CA,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,Electra,Cruisers Bicycles,2016,269.99,8,2026-04-01 21:38:58.421075,DataLake
+17,Santa Cruz Bikes,Santa Cruz,CA,Electra Moto 1 - 2016,Electra,Cruisers Bicycles,2016,529.99,3,2026-04-01 21:38:58.421075,DataLake
+18,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Original 7D EQ - 2016,Electra,Cruisers Bicycles,2016,599.99,4,2026-04-01 21:38:58.421075,DataLake
+19,Santa Cruz Bikes,Santa Cruz,CA,Pure Cycles Vine 8-Speed - 2016,Pure Cycles,Cruisers Bicycles,2016,429.0,2,2026-04-01 21:38:58.421075,DataLake
+20,Santa Cruz Bikes,Santa Cruz,CA,Pure Cycles Western 3-Speed - Women's - 2015/2016,Pure Cycles,Cruisers Bicycles,2016,449.0,16,2026-04-01 21:38:58.421075,DataLake
+21,Santa Cruz Bikes,Santa Cruz,CA,Pure Cycles William 3-Speed - 2016,Pure Cycles,Cruisers Bicycles,2016,449.0,4,2026-04-01 21:38:58.421075,DataLake
+22,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Original 7D EQ - Women's - 2016,Electra,Cruisers Bicycles,2016,599.99,26,2026-04-01 21:38:58.421075,DataLake
+23,Santa Cruz Bikes,Santa Cruz,CA,Electra Cruiser 1 (24-Inch) - 2016,Electra,Children Bicycles,2016,269.99,24,2026-04-01 21:38:58.421075,DataLake
+24,Santa Cruz Bikes,Santa Cruz,CA,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,Electra,Children Bicycles,2016,269.99,29,2026-04-01 21:38:58.421075,DataLake
+25,Santa Cruz Bikes,Santa Cruz,CA,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,Electra,Children Bicycles,2016,299.99,9,2026-04-01 21:38:58.421075,DataLake
+26,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Original 21D - 2016,Electra,Comfort Bicycles,2016,549.99,10,2026-04-01 21:38:58.421075,DataLake
+27,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Original 7D - 2015/2016,Electra,Comfort Bicycles,2016,499.99,10,2026-04-01 21:38:58.421075,DataLake
+28,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Original 7D EQ - 2016,Electra,Comfort Bicycles,2016,599.99,16,2026-04-01 21:38:58.421075,DataLake
+29,Santa Cruz Bikes,Santa Cruz,CA,Surly Big Dummy Frameset - 2017,Surly,Mountain Bikes,2017,999.99,21,2026-04-01 21:38:58.421075,DataLake
+30,Santa Cruz Bikes,Santa Cruz,CA,Surly Karate Monkey 27.5+ Frameset - 2017,Surly,Mountain Bikes,2017,2499.99,20,2026-04-01 21:38:58.421075,DataLake
+31,Santa Cruz Bikes,Santa Cruz,CA,Trek X-Caliber 8 - 2017,Trek,Mountain Bikes,2017,999.99,13,2026-04-01 21:38:58.421075,DataLake
+32,Santa Cruz Bikes,Santa Cruz,CA,Surly Ice Cream Truck Frameset - 2017,Surly,Mountain Bikes,2017,999.99,30,2026-04-01 21:38:58.421075,DataLake
+33,Santa Cruz Bikes,Santa Cruz,CA,Surly Wednesday - 2017,Surly,Mountain Bikes,2017,1632.99,2,2026-04-01 21:38:58.421075,DataLake
+34,Santa Cruz Bikes,Santa Cruz,CA,Trek Farley Alloy Frameset - 2017,Trek,Mountain Bikes,2017,469.99,0,2026-04-01 21:38:58.421075,DataLake
+35,Santa Cruz Bikes,Santa Cruz,CA,Surly Wednesday Frameset - 2017,Surly,Mountain Bikes,2017,469.99,10,2026-04-01 21:38:58.421075,DataLake
+36,Santa Cruz Bikes,Santa Cruz,CA,Trek Session DH 27.5 Carbon Frameset - 2017,Trek,Mountain Bikes,2017,469.99,2,2026-04-01 21:38:58.421075,DataLake
+37,Santa Cruz Bikes,Santa Cruz,CA,Sun Bicycles Spider 3i - 2017,Sun Bicycles,Mountain Bikes,2017,832.99,18,2026-04-01 21:38:58.421075,DataLake
+38,Santa Cruz Bikes,Santa Cruz,CA,Surly Troll Frameset - 2017,Surly,Mountain Bikes,2017,832.99,26,2026-04-01 21:38:58.421075,DataLake
+39,Santa Cruz Bikes,Santa Cruz,CA,Haro Flightline One ST - 2017,Haro,Mountain Bikes,2017,379.99,12,2026-04-01 21:38:58.421075,DataLake
+40,Santa Cruz Bikes,Santa Cruz,CA,Haro Flightline Two 26 Plus - 2017,Haro,Mountain Bikes,2017,549.99,13,2026-04-01 21:38:58.421075,DataLake
+41,Santa Cruz Bikes,Santa Cruz,CA,Trek Stache 5 - 2017,Trek,Mountain Bikes,2017,1499.99,2,2026-04-01 21:38:58.421075,DataLake
+42,Santa Cruz Bikes,Santa Cruz,CA,Trek Fuel EX 9.8 29 - 2017,Trek,Mountain Bikes,2017,4999.99,24,2026-04-01 21:38:58.421075,DataLake
+43,Santa Cruz Bikes,Santa Cruz,CA,Haro Shift R3 - 2017,Haro,Mountain Bikes,2017,1469.99,10,2026-04-01 21:38:58.421075,DataLake
+44,Santa Cruz Bikes,Santa Cruz,CA,Trek Fuel EX 5 27.5 Plus - 2017,Trek,Mountain Bikes,2017,2299.99,0,2026-04-01 21:38:58.421075,DataLake
+45,Santa Cruz Bikes,Santa Cruz,CA,Trek Fuel EX 9.8 27.5 Plus - 2017,Trek,Mountain Bikes,2017,5299.99,2,2026-04-01 21:38:58.421075,DataLake
+46,Santa Cruz Bikes,Santa Cruz,CA,Haro SR 1.1 - 2017,Haro,Mountain Bikes,2017,539.99,1,2026-04-01 21:38:58.421075,DataLake
+47,Santa Cruz Bikes,Santa Cruz,CA,Haro SR 1.2 - 2017,Haro,Mountain Bikes,2017,869.99,15,2026-04-01 21:38:58.421075,DataLake
+48,Santa Cruz Bikes,Santa Cruz,CA,Haro SR 1.3 - 2017,Haro,Mountain Bikes,2017,1409.99,19,2026-04-01 21:38:58.421075,DataLake
+49,Santa Cruz Bikes,Santa Cruz,CA,Trek Remedy 9.8 - 2017,Trek,Mountain Bikes,2017,5299.99,21,2026-04-01 21:38:58.421075,DataLake
+50,Santa Cruz Bikes,Santa Cruz,CA,Trek Emonda S 4 - 2017,Trek,Road Bikes,2017,1499.99,5,2026-04-01 21:38:58.421075,DataLake
+51,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane SL 6 - 2017,Trek,Road Bikes,2017,3499.99,8,2026-04-01 21:38:58.421075,DataLake
+52,Santa Cruz Bikes,Santa Cruz,CA,Trek Silque SLR 7 Women's - 2017,Trek,Road Bikes,2017,5999.99,29,2026-04-01 21:38:58.421075,DataLake
+53,Santa Cruz Bikes,Santa Cruz,CA,Trek Silque SLR 8 Women's - 2017,Trek,Road Bikes,2017,6499.99,2,2026-04-01 21:38:58.421075,DataLake
+54,Santa Cruz Bikes,Santa Cruz,CA,Surly Steamroller - 2017,Surly,Road Bikes,2017,875.99,18,2026-04-01 21:38:58.421075,DataLake
+55,Santa Cruz Bikes,Santa Cruz,CA,Surly Ogre Frameset - 2017,Surly,Road Bikes,2017,749.99,17,2026-04-01 21:38:58.421075,DataLake
+56,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane SL Disc Frameset - 2017,Trek,Road Bikes,2017,3199.99,11,2026-04-01 21:38:58.421075,DataLake
+57,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane S 6 - 2017,Trek,Road Bikes,2017,2699.99,11,2026-04-01 21:38:58.421075,DataLake
+58,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane SLR 6 Disc - 2017,Trek,Road Bikes,2017,5499.99,15,2026-04-01 21:38:58.421075,DataLake
+59,Santa Cruz Bikes,Santa Cruz,CA,Trek Emonda S 5 - 2017,Trek,Road Bikes,2017,1999.99,1,2026-04-01 21:38:58.421075,DataLake
+60,Santa Cruz Bikes,Santa Cruz,CA,Trek Madone 9.2 - 2017,Trek,Road Bikes,2017,4999.99,1,2026-04-01 21:38:58.421075,DataLake
+61,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane S 5 Disc - 2017,Trek,Road Bikes,2017,2599.99,22,2026-04-01 21:38:58.421075,DataLake
+62,Santa Cruz Bikes,Santa Cruz,CA,Sun Bicycles ElectroLite - 2017,Sun Bicycles,Electric Bikes,2017,1559.99,19,2026-04-01 21:38:58.421075,DataLake
+63,Santa Cruz Bikes,Santa Cruz,CA,Trek Powerfly 8 FS Plus - 2017,Trek,Electric Bikes,2017,4999.99,30,2026-04-01 21:38:58.421075,DataLake
+64,Santa Cruz Bikes,Santa Cruz,CA,Trek Boone 7 - 2017,Trek,Cyclocross Bicycles,2017,3499.99,21,2026-04-01 21:38:58.421075,DataLake
+65,Santa Cruz Bikes,Santa Cruz,CA,Trek Boone Race Shop Limited - 2017,Trek,Cyclocross Bicycles,2017,3499.99,4,2026-04-01 21:38:58.421075,DataLake
+66,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Original 7D - 2017,Electra,Cruisers Bicycles,2017,489.99,30,2026-04-01 21:38:58.421075,DataLake
+67,Santa Cruz Bikes,Santa Cruz,CA,Sun Bicycles Lil Bolt Type-R - 2017,Sun Bicycles,Cruisers Bicycles,2017,346.99,10,2026-04-01 21:38:58.421075,DataLake
+68,Santa Cruz Bikes,Santa Cruz,CA,Sun Bicycles Revolutions 24 - 2017,Sun Bicycles,Cruisers Bicycles,2017,250.99,12,2026-04-01 21:38:58.421075,DataLake
+69,Santa Cruz Bikes,Santa Cruz,CA,Sun Bicycles Revolutions 24 - Girl's - 2017,Sun Bicycles,Cruisers Bicycles,2017,250.99,19,2026-04-01 21:38:58.421075,DataLake
+70,Santa Cruz Bikes,Santa Cruz,CA,Sun Bicycles Cruz 3 - 2017,Sun Bicycles,Cruisers Bicycles,2017,449.99,30,2026-04-01 21:38:58.421075,DataLake
+71,Santa Cruz Bikes,Santa Cruz,CA,Sun Bicycles Cruz 7 - 2017,Sun Bicycles,Cruisers Bicycles,2017,416.99,4,2026-04-01 21:38:58.421075,DataLake
+72,Santa Cruz Bikes,Santa Cruz,CA,Electra Amsterdam Original 3i - 2015/2017,Electra,Cruisers Bicycles,2017,659.99,3,2026-04-01 21:38:58.421075,DataLake
+73,Santa Cruz Bikes,Santa Cruz,CA,Sun Bicycles Atlas X-Type - 2017,Sun Bicycles,Cruisers Bicycles,2017,416.99,25,2026-04-01 21:38:58.421075,DataLake
+74,Santa Cruz Bikes,Santa Cruz,CA,Sun Bicycles Biscayne Tandem 7 - 2017,Sun Bicycles,Cruisers Bicycles,2017,619.99,9,2026-04-01 21:38:58.421075,DataLake
+75,Santa Cruz Bikes,Santa Cruz,CA,Sun Bicycles Brickell Tandem 7 - 2017,Sun Bicycles,Cruisers Bicycles,2017,749.99,7,2026-04-01 21:38:58.421075,DataLake
+76,Santa Cruz Bikes,Santa Cruz,CA,Electra Cruiser Lux 1 - 2017,Electra,Cruisers Bicycles,2017,439.99,9,2026-04-01 21:38:58.421075,DataLake
+77,Santa Cruz Bikes,Santa Cruz,CA,Electra Cruiser Lux Fat Tire 1 Ladies - 2017,Electra,Cruisers Bicycles,2017,599.99,23,2026-04-01 21:38:58.421075,DataLake
+78,Santa Cruz Bikes,Santa Cruz,CA,"Electra Girl's Hawaii 1 16"" - 2017",Electra,Cruisers Bicycles,2017,299.99,15,2026-04-01 21:38:58.421075,DataLake
+79,Santa Cruz Bikes,Santa Cruz,CA,Electra Glam Punk 3i Ladies' - 2017,Electra,Cruisers Bicycles,2017,799.99,16,2026-04-01 21:38:58.421075,DataLake
+80,Santa Cruz Bikes,Santa Cruz,CA,Sun Bicycles Biscayne Tandem CB - 2017,Sun Bicycles,Cruisers Bicycles,2017,647.99,13,2026-04-01 21:38:58.421075,DataLake
+81,Santa Cruz Bikes,Santa Cruz,CA,Sun Bicycles Boardwalk (24-inch Wheels) - 2017,Sun Bicycles,Cruisers Bicycles,2017,402.99,13,2026-04-01 21:38:58.421075,DataLake
+82,Santa Cruz Bikes,Santa Cruz,CA,Sun Bicycles Brickell Tandem CB - 2017,Sun Bicycles,Cruisers Bicycles,2017,761.99,11,2026-04-01 21:38:58.421075,DataLake
+83,Santa Cruz Bikes,Santa Cruz,CA,Electra Amsterdam Fashion 7i Ladies' - 2017,Electra,Cruisers Bicycles,2017,1099.99,25,2026-04-01 21:38:58.421075,DataLake
+84,Santa Cruz Bikes,Santa Cruz,CA,Electra Amsterdam Original 3i Ladies' - 2017,Electra,Cruisers Bicycles,2017,659.99,1,2026-04-01 21:38:58.421075,DataLake
+85,Santa Cruz Bikes,Santa Cruz,CA,Trek Boy's Kickster - 2015/2017,Trek,Children Bicycles,2017,149.99,13,2026-04-01 21:38:58.421075,DataLake
+86,Santa Cruz Bikes,Santa Cruz,CA,Sun Bicycles Lil Kitt'n - 2017,Sun Bicycles,Children Bicycles,2017,109.99,11,2026-04-01 21:38:58.421075,DataLake
+87,Santa Cruz Bikes,Santa Cruz,CA,Haro Downtown 16 - 2017,Haro,Children Bicycles,2017,329.99,23,2026-04-01 21:38:58.421075,DataLake
+88,Santa Cruz Bikes,Santa Cruz,CA,Trek Girl's Kickster - 2017,Trek,Children Bicycles,2017,149.99,19,2026-04-01 21:38:58.421075,DataLake
+89,Santa Cruz Bikes,Santa Cruz,CA,Trek Precaliber 12 Boys - 2017,Trek,Children Bicycles,2017,189.99,27,2026-04-01 21:38:58.421075,DataLake
+90,Santa Cruz Bikes,Santa Cruz,CA,Trek Precaliber 12 Girls - 2017,Trek,Children Bicycles,2017,189.99,7,2026-04-01 21:38:58.421075,DataLake
+91,Santa Cruz Bikes,Santa Cruz,CA,Trek Precaliber 16 Boys - 2017,Trek,Children Bicycles,2017,209.99,9,2026-04-01 21:38:58.421075,DataLake
+92,Santa Cruz Bikes,Santa Cruz,CA,Trek Precaliber 16 Girls - 2017,Trek,Children Bicycles,2017,209.99,4,2026-04-01 21:38:58.421075,DataLake
+93,Santa Cruz Bikes,Santa Cruz,CA,Trek Precaliber 24 (21-Speed) - Girls - 2017,Trek,Children Bicycles,2017,349.99,8,2026-04-01 21:38:58.421075,DataLake
+94,Santa Cruz Bikes,Santa Cruz,CA,Haro Shredder 20 - 2017,Haro,Children Bicycles,2017,209.99,0,2026-04-01 21:38:58.421075,DataLake
+95,Santa Cruz Bikes,Santa Cruz,CA,Haro Shredder 20 - 2017,Haro,Children Bicycles,2017,209.99,0,2026-04-01 21:38:58.421075,DataLake
+96,Santa Cruz Bikes,Santa Cruz,CA,Haro Shredder 20 Girls - 2017,Haro,Children Bicycles,2017,209.99,22,2026-04-01 21:38:58.421075,DataLake
+97,Santa Cruz Bikes,Santa Cruz,CA,Haro Shredder 20 Girls - 2017,Haro,Children Bicycles,2017,209.99,22,2026-04-01 21:38:58.421075,DataLake
+98,Santa Cruz Bikes,Santa Cruz,CA,Haro Shredder Pro 20 - 2017,Haro,Children Bicycles,2017,249.99,6,2026-04-01 21:38:58.421075,DataLake
+99,Santa Cruz Bikes,Santa Cruz,CA,Haro Shredder Pro 20 - 2017,Haro,Children Bicycles,2017,249.99,6,2026-04-01 21:38:58.421075,DataLake
+100,Santa Cruz Bikes,Santa Cruz,CA,"Electra Girl's Hawaii 1 16"" - 2017",Electra,Children Bicycles,2017,299.99,25,2026-04-01 21:38:58.421075,DataLake
+101,Santa Cruz Bikes,Santa Cruz,CA,Electra Moto 3i (20-inch) - Boy's - 2017,Electra,Children Bicycles,2017,349.99,20,2026-04-01 21:38:58.421075,DataLake
+102,Santa Cruz Bikes,Santa Cruz,CA,Electra Savannah 3i (20-inch) - Girl's - 2017,Electra,Children Bicycles,2017,349.99,20,2026-04-01 21:38:58.421075,DataLake
+103,Santa Cruz Bikes,Santa Cruz,CA,Electra Straight 8 3i (20-inch) - Boy's - 2017,Electra,Children Bicycles,2017,489.99,28,2026-04-01 21:38:58.421075,DataLake
+104,Santa Cruz Bikes,Santa Cruz,CA,Electra Sugar Skulls 1 (20-inch) - Girl's - 2017,Electra,Children Bicycles,2017,299.99,28,2026-04-01 21:38:58.421075,DataLake
+105,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie 3i EQ (20-inch) - Boys' - 2017,Electra,Children Bicycles,2017,489.99,15,2026-04-01 21:38:58.421075,DataLake
+106,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie 7D (20-inch) - Boys' - 2017,Electra,Children Bicycles,2017,339.99,17,2026-04-01 21:38:58.421075,DataLake
+107,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Original 7D - 2017,Electra,Comfort Bicycles,2017,489.99,9,2026-04-01 21:38:58.421075,DataLake
+108,Santa Cruz Bikes,Santa Cruz,CA,Sun Bicycles Streamway 3 - 2017,Sun Bicycles,Comfort Bicycles,2017,551.99,13,2026-04-01 21:38:58.421075,DataLake
+109,Santa Cruz Bikes,Santa Cruz,CA,Sun Bicycles Streamway - 2017,Sun Bicycles,Comfort Bicycles,2017,481.99,25,2026-04-01 21:38:58.421075,DataLake
+110,Santa Cruz Bikes,Santa Cruz,CA,Sun Bicycles Streamway 7 - 2017,Sun Bicycles,Comfort Bicycles,2017,533.99,7,2026-04-01 21:38:58.421075,DataLake
+111,Santa Cruz Bikes,Santa Cruz,CA,Sun Bicycles Cruz 3 - 2017,Sun Bicycles,Comfort Bicycles,2017,449.99,30,2026-04-01 21:38:58.421075,DataLake
+112,Santa Cruz Bikes,Santa Cruz,CA,Sun Bicycles Cruz 7 - 2017,Sun Bicycles,Comfort Bicycles,2017,416.99,20,2026-04-01 21:38:58.421075,DataLake
+113,Santa Cruz Bikes,Santa Cruz,CA,Sun Bicycles Cruz 3 - Women's - 2017,Sun Bicycles,Comfort Bicycles,2017,449.99,15,2026-04-01 21:38:58.421075,DataLake
+114,Santa Cruz Bikes,Santa Cruz,CA,Sun Bicycles Cruz 7 - Women's - 2017,Sun Bicycles,Comfort Bicycles,2017,416.99,30,2026-04-01 21:38:58.421075,DataLake
+115,Santa Cruz Bikes,Santa Cruz,CA,Sun Bicycles Drifter 7 - 2017,Sun Bicycles,Comfort Bicycles,2017,470.99,1,2026-04-01 21:38:58.421075,DataLake
+116,Santa Cruz Bikes,Santa Cruz,CA,Sun Bicycles Drifter 7 - Women's - 2017,Sun Bicycles,Comfort Bicycles,2017,470.99,11,2026-04-01 21:38:58.421075,DataLake
+117,Santa Cruz Bikes,Santa Cruz,CA,Trek 820 - 2018,Trek,Mountain Bikes,2018,379.99,17,2026-04-01 21:38:58.421075,DataLake
+118,Santa Cruz Bikes,Santa Cruz,CA,Trek Marlin 5 - 2018,Trek,Mountain Bikes,2018,489.99,24,2026-04-01 21:38:58.421075,DataLake
+119,Santa Cruz Bikes,Santa Cruz,CA,Trek Marlin 6 - 2018,Trek,Mountain Bikes,2018,579.99,3,2026-04-01 21:38:58.421075,DataLake
+120,Santa Cruz Bikes,Santa Cruz,CA,Trek Fuel EX 8 29 - 2018,Trek,Mountain Bikes,2018,3199.99,10,2026-04-01 21:38:58.421075,DataLake
+121,Santa Cruz Bikes,Santa Cruz,CA,Trek Marlin 7 - 2017/2018,Trek,Mountain Bikes,2018,749.99,24,2026-04-01 21:38:58.421075,DataLake
+122,Santa Cruz Bikes,Santa Cruz,CA,Trek Ticket S Frame - 2018,Trek,Mountain Bikes,2018,1469.99,15,2026-04-01 21:38:58.421075,DataLake
+123,Santa Cruz Bikes,Santa Cruz,CA,Trek X-Caliber 8 - 2018,Trek,Mountain Bikes,2018,999.99,12,2026-04-01 21:38:58.421075,DataLake
+124,Santa Cruz Bikes,Santa Cruz,CA,Trek Kids' Neko - 2018,Trek,Mountain Bikes,2018,469.99,17,2026-04-01 21:38:58.421075,DataLake
+125,Santa Cruz Bikes,Santa Cruz,CA,Trek Fuel EX 7 29 - 2018,Trek,Mountain Bikes,2018,2499.99,23,2026-04-01 21:38:58.421075,DataLake
+126,Santa Cruz Bikes,Santa Cruz,CA,Surly Krampus Frameset - 2018,Surly,Mountain Bikes,2018,2499.99,19,2026-04-01 21:38:58.421075,DataLake
+127,Santa Cruz Bikes,Santa Cruz,CA,Surly Troll Frameset - 2018,Surly,Mountain Bikes,2018,2499.99,22,2026-04-01 21:38:58.421075,DataLake
+128,Santa Cruz Bikes,Santa Cruz,CA,Trek Farley Carbon Frameset - 2018,Trek,Mountain Bikes,2018,999.99,8,2026-04-01 21:38:58.421075,DataLake
+129,Santa Cruz Bikes,Santa Cruz,CA,Surly Krampus - 2018,Surly,Mountain Bikes,2018,1499.0,23,2026-04-01 21:38:58.421075,DataLake
+130,Santa Cruz Bikes,Santa Cruz,CA,Trek Kids' Dual Sport - 2018,Trek,Mountain Bikes,2018,469.99,22,2026-04-01 21:38:58.421075,DataLake
+131,Santa Cruz Bikes,Santa Cruz,CA,Surly Big Fat Dummy Frameset - 2018,Surly,Mountain Bikes,2018,469.99,28,2026-04-01 21:38:58.421075,DataLake
+132,Santa Cruz Bikes,Santa Cruz,CA,Surly Pack Rat Frameset - 2018,Surly,Mountain Bikes,2018,469.99,12,2026-04-01 21:38:58.421075,DataLake
+133,Santa Cruz Bikes,Santa Cruz,CA,Surly ECR 27.5 - 2018,Surly,Mountain Bikes,2018,1899.0,11,2026-04-01 21:38:58.421075,DataLake
+134,Santa Cruz Bikes,Santa Cruz,CA,Trek X-Caliber 7 - 2018,Trek,Mountain Bikes,2018,919.99,21,2026-04-01 21:38:58.421075,DataLake
+135,Santa Cruz Bikes,Santa Cruz,CA,Trek Stache Carbon Frameset - 2018,Trek,Mountain Bikes,2018,919.99,22,2026-04-01 21:38:58.421075,DataLake
+136,Santa Cruz Bikes,Santa Cruz,CA,Heller Bloodhound Trail - 2018,Heller,Mountain Bikes,2018,2599.0,20,2026-04-01 21:38:58.421075,DataLake
+137,Santa Cruz Bikes,Santa Cruz,CA,Trek Procal AL Frameset - 2018,Trek,Mountain Bikes,2018,1499.99,1,2026-04-01 21:38:58.421075,DataLake
+138,Santa Cruz Bikes,Santa Cruz,CA,Trek Procaliber Frameset - 2018,Trek,Mountain Bikes,2018,1499.99,9,2026-04-01 21:38:58.421075,DataLake
+139,Santa Cruz Bikes,Santa Cruz,CA,Trek Remedy 27.5 C Frameset - 2018,Trek,Mountain Bikes,2018,1499.99,26,2026-04-01 21:38:58.421075,DataLake
+140,Santa Cruz Bikes,Santa Cruz,CA,Trek X-Caliber Frameset - 2018,Trek,Mountain Bikes,2018,1499.99,15,2026-04-01 21:38:58.421075,DataLake
+141,Santa Cruz Bikes,Santa Cruz,CA,Trek Procaliber 6 - 2018,Trek,Mountain Bikes,2018,1799.99,12,2026-04-01 21:38:58.421075,DataLake
+142,Santa Cruz Bikes,Santa Cruz,CA,Heller Shagamaw GX1 - 2018,Heller,Mountain Bikes,2018,2599.0,12,2026-04-01 21:38:58.421075,DataLake
+143,Santa Cruz Bikes,Santa Cruz,CA,Trek Fuel EX 5 Plus - 2018,Trek,Mountain Bikes,2018,2249.99,6,2026-04-01 21:38:58.421075,DataLake
+144,Santa Cruz Bikes,Santa Cruz,CA,Trek Remedy 7 27.5 - 2018,Trek,Mountain Bikes,2018,2999.99,17,2026-04-01 21:38:58.421075,DataLake
+145,Santa Cruz Bikes,Santa Cruz,CA,Trek Remedy 9.8 27.5 - 2018,Trek,Mountain Bikes,2018,4999.99,3,2026-04-01 21:38:58.421075,DataLake
+146,Santa Cruz Bikes,Santa Cruz,CA,Trek Stache 5 - 2018,Trek,Mountain Bikes,2018,1599.99,21,2026-04-01 21:38:58.421075,DataLake
+147,Santa Cruz Bikes,Santa Cruz,CA,Trek Fuel EX 8 29 XT - 2018,Trek,Mountain Bikes,2018,3199.99,22,2026-04-01 21:38:58.421075,DataLake
+148,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane ALR 3 - 2018,Trek,Road Bikes,2018,1099.99,19,2026-04-01 21:38:58.421075,DataLake
+149,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane ALR 4 Disc - 2018,Trek,Road Bikes,2018,1549.99,7,2026-04-01 21:38:58.421075,DataLake
+150,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane ALR 5 Disc - 2018,Trek,Road Bikes,2018,1799.99,5,2026-04-01 21:38:58.421075,DataLake
+151,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane SLR 6 - 2018,Trek,Road Bikes,2018,4999.99,6,2026-04-01 21:38:58.421075,DataLake
+152,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane ALR 5 Gravel - 2018,Trek,Road Bikes,2018,1799.99,8,2026-04-01 21:38:58.421075,DataLake
+153,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane SL 8 Disc - 2018,Trek,Road Bikes,2018,5499.99,6,2026-04-01 21:38:58.421075,DataLake
+154,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane SLR 8 Disc - 2018,Trek,Road Bikes,2018,7499.99,1,2026-04-01 21:38:58.421075,DataLake
+155,Santa Cruz Bikes,Santa Cruz,CA,Trek Emonda SL 7 - 2018,Trek,Road Bikes,2018,4499.99,22,2026-04-01 21:38:58.421075,DataLake
+156,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane ALR 4 Disc Women's - 2018,Trek,Road Bikes,2018,1549.99,24,2026-04-01 21:38:58.421075,DataLake
+157,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane SL 5 Disc Women's - 2018,Trek,Road Bikes,2018,2499.99,12,2026-04-01 21:38:58.421075,DataLake
+158,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane SL 7 Women's - 2018,Trek,Road Bikes,2018,4999.99,25,2026-04-01 21:38:58.421075,DataLake
+159,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane SLR 6 Disc Women's - 2018,Trek,Road Bikes,2018,5499.99,13,2026-04-01 21:38:58.421075,DataLake
+160,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane SLR 9 Disc - 2018,Trek,Road Bikes,2018,11999.99,8,2026-04-01 21:38:58.421075,DataLake
+161,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane SL Frameset - 2018,Trek,Road Bikes,2018,6499.99,13,2026-04-01 21:38:58.421075,DataLake
+162,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane SL Frameset Women's - 2018,Trek,Road Bikes,2018,6499.99,25,2026-04-01 21:38:58.421075,DataLake
+163,Santa Cruz Bikes,Santa Cruz,CA,Trek CrossRip 1 - 2018,Trek,Road Bikes,2018,959.99,11,2026-04-01 21:38:58.421075,DataLake
+164,Santa Cruz Bikes,Santa Cruz,CA,Trek Emonda ALR 6 - 2018,Trek,Road Bikes,2018,2299.99,18,2026-04-01 21:38:58.421075,DataLake
+165,Santa Cruz Bikes,Santa Cruz,CA,Trek Emonda SLR 6 - 2018,Trek,Road Bikes,2018,4499.99,0,2026-04-01 21:38:58.421075,DataLake
+166,Santa Cruz Bikes,Santa Cruz,CA,Surly ECR - 2018,Surly,Road Bikes,2018,1899.0,17,2026-04-01 21:38:58.421075,DataLake
+167,Santa Cruz Bikes,Santa Cruz,CA,Trek Emonda SL 6 Disc - 2018,Trek,Road Bikes,2018,2999.99,14,2026-04-01 21:38:58.421075,DataLake
+168,Santa Cruz Bikes,Santa Cruz,CA,Surly Pack Rat - 2018,Surly,Road Bikes,2018,1349.0,0,2026-04-01 21:38:58.421075,DataLake
+169,Santa Cruz Bikes,Santa Cruz,CA,Surly Straggler 650b - 2018,Surly,Road Bikes,2018,1549.0,15,2026-04-01 21:38:58.421075,DataLake
+170,Santa Cruz Bikes,Santa Cruz,CA,Trek 1120 - 2018,Trek,Road Bikes,2018,2499.99,16,2026-04-01 21:38:58.421075,DataLake
+171,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane AL 2 Women's - 2018,Trek,Road Bikes,2018,749.99,23,2026-04-01 21:38:58.421075,DataLake
+172,Santa Cruz Bikes,Santa Cruz,CA,Surly ECR Frameset - 2018,Surly,Road Bikes,2018,749.99,28,2026-04-01 21:38:58.421075,DataLake
+173,Santa Cruz Bikes,Santa Cruz,CA,Surly Straggler - 2018,Surly,Road Bikes,2018,1549.0,0,2026-04-01 21:38:58.421075,DataLake
+174,Santa Cruz Bikes,Santa Cruz,CA,Trek Emonda SLR 8 - 2018,Trek,Road Bikes,2018,6499.99,25,2026-04-01 21:38:58.421075,DataLake
+175,Santa Cruz Bikes,Santa Cruz,CA,Trek CrossRip 2 - 2018,Trek,Road Bikes,2018,1299.99,14,2026-04-01 21:38:58.421075,DataLake
+176,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane SL 6 - 2018,Trek,Road Bikes,2018,3199.99,3,2026-04-01 21:38:58.421075,DataLake
+177,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane ALR Disc Frameset - 2018,Trek,Road Bikes,2018,3199.99,3,2026-04-01 21:38:58.421075,DataLake
+178,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane ALR Frameset - 2018,Trek,Road Bikes,2018,3199.99,2,2026-04-01 21:38:58.421075,DataLake
+179,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane SLR Disc Frameset - 2018,Trek,Road Bikes,2018,3199.99,26,2026-04-01 21:38:58.421075,DataLake
+180,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane SLR Frameset - 2018,Trek,Road Bikes,2018,3199.99,2,2026-04-01 21:38:58.421075,DataLake
+181,Santa Cruz Bikes,Santa Cruz,CA,Trek Madone 9 Frameset - 2018,Trek,Road Bikes,2018,3199.99,11,2026-04-01 21:38:58.421075,DataLake
+182,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane SLR 6 Disc - 2018,Trek,Road Bikes,2018,5499.99,19,2026-04-01 21:38:58.421075,DataLake
+183,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane AL 2 - 2018,Trek,Road Bikes,2018,749.99,23,2026-04-01 21:38:58.421075,DataLake
+184,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane AL 3 - 2018,Trek,Road Bikes,2018,919.99,16,2026-04-01 21:38:58.421075,DataLake
+185,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane AL 3 Women's - 2018,Trek,Road Bikes,2018,919.99,5,2026-04-01 21:38:58.421075,DataLake
+186,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane SL 5 - 2018,Trek,Road Bikes,2018,2199.99,19,2026-04-01 21:38:58.421075,DataLake
+187,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane SL 5 Disc - 2018,Trek,Road Bikes,2018,2499.99,28,2026-04-01 21:38:58.421075,DataLake
+188,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane SL 5 Women's - 2018,Trek,Road Bikes,2018,2199.99,11,2026-04-01 21:38:58.421075,DataLake
+189,Santa Cruz Bikes,Santa Cruz,CA,Trek Domane SL 6 Disc - 2018,Trek,Road Bikes,2018,3499.99,4,2026-04-01 21:38:58.421075,DataLake
+190,Santa Cruz Bikes,Santa Cruz,CA,Trek Conduit+ - 2018,Trek,Electric Bikes,2018,2799.99,3,2026-04-01 21:38:58.421075,DataLake
+191,Santa Cruz Bikes,Santa Cruz,CA,Trek CrossRip+ - 2018,Trek,Electric Bikes,2018,4499.99,1,2026-04-01 21:38:58.421075,DataLake
+192,Santa Cruz Bikes,Santa Cruz,CA,Trek Neko+ - 2018,Trek,Electric Bikes,2018,2799.99,16,2026-04-01 21:38:58.421075,DataLake
+193,Santa Cruz Bikes,Santa Cruz,CA,Trek XM700+ Lowstep - 2018,Trek,Electric Bikes,2018,3499.99,30,2026-04-01 21:38:58.421075,DataLake
+194,Santa Cruz Bikes,Santa Cruz,CA,Trek XM700+ Lowstep - 2018,Trek,Electric Bikes,2018,3499.99,30,2026-04-01 21:38:58.421075,DataLake
+195,Santa Cruz Bikes,Santa Cruz,CA,Trek Lift+ Lowstep - 2018,Trek,Electric Bikes,2018,2799.99,6,2026-04-01 21:38:58.421075,DataLake
+196,Santa Cruz Bikes,Santa Cruz,CA,Trek Lift+ Lowstep - 2018,Trek,Electric Bikes,2018,2799.99,6,2026-04-01 21:38:58.421075,DataLake
+197,Santa Cruz Bikes,Santa Cruz,CA,Trek Dual Sport+ - 2018,Trek,Electric Bikes,2018,2799.99,21,2026-04-01 21:38:58.421075,DataLake
+198,Santa Cruz Bikes,Santa Cruz,CA,Trek Dual Sport+ - 2018,Trek,Electric Bikes,2018,2799.99,21,2026-04-01 21:38:58.421075,DataLake
+199,Santa Cruz Bikes,Santa Cruz,CA,Electra Loft Go! 8i - 2018,Electra,Electric Bikes,2018,2799.99,21,2026-04-01 21:38:58.421075,DataLake
+200,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Go! 8i - 2017/2018,Electra,Electric Bikes,2018,2599.99,20,2026-04-01 21:38:58.421075,DataLake
+201,Santa Cruz Bikes,Santa Cruz,CA,Trek Lift+ - 2018,Trek,Electric Bikes,2018,2799.99,30,2026-04-01 21:38:58.421075,DataLake
+202,Santa Cruz Bikes,Santa Cruz,CA,Trek XM700+ - 2018,Trek,Electric Bikes,2018,3499.99,24,2026-04-01 21:38:58.421075,DataLake
+203,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Go! 8i Ladies' - 2018,Electra,Electric Bikes,2018,2599.99,1,2026-04-01 21:38:58.421075,DataLake
+204,Santa Cruz Bikes,Santa Cruz,CA,Trek Verve+ - 2018,Trek,Electric Bikes,2018,2299.99,26,2026-04-01 21:38:58.421075,DataLake
+205,Santa Cruz Bikes,Santa Cruz,CA,Trek Verve+ Lowstep - 2018,Trek,Electric Bikes,2018,2299.99,22,2026-04-01 21:38:58.421075,DataLake
+206,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Commute Go! - 2018,Electra,Electric Bikes,2018,2999.99,1,2026-04-01 21:38:58.421075,DataLake
+207,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Commute Go! Ladies' - 2018,Electra,Electric Bikes,2018,2999.99,2,2026-04-01 21:38:58.421075,DataLake
+208,Santa Cruz Bikes,Santa Cruz,CA,Trek Powerfly 5 - 2018,Trek,Electric Bikes,2018,3499.99,27,2026-04-01 21:38:58.421075,DataLake
+209,Santa Cruz Bikes,Santa Cruz,CA,Trek Powerfly 5 FS - 2018,Trek,Electric Bikes,2018,4499.99,16,2026-04-01 21:38:58.421075,DataLake
+210,Santa Cruz Bikes,Santa Cruz,CA,Trek Powerfly 5 Women's - 2018,Trek,Electric Bikes,2018,3499.99,5,2026-04-01 21:38:58.421075,DataLake
+211,Santa Cruz Bikes,Santa Cruz,CA,Trek Powerfly 7 FS - 2018,Trek,Electric Bikes,2018,4999.99,4,2026-04-01 21:38:58.421075,DataLake
+212,Santa Cruz Bikes,Santa Cruz,CA,Trek Super Commuter+ 7 - 2018,Trek,Electric Bikes,2018,3599.99,23,2026-04-01 21:38:58.421075,DataLake
+213,Santa Cruz Bikes,Santa Cruz,CA,Trek Super Commuter+ 8S - 2018,Trek,Electric Bikes,2018,4999.99,9,2026-04-01 21:38:58.421075,DataLake
+214,Santa Cruz Bikes,Santa Cruz,CA,Trek Boone 5 Disc - 2018,Trek,Cyclocross Bicycles,2018,3299.99,10,2026-04-01 21:38:58.421075,DataLake
+215,Santa Cruz Bikes,Santa Cruz,CA,Trek Boone 7 Disc - 2018,Trek,Cyclocross Bicycles,2018,3999.99,27,2026-04-01 21:38:58.421075,DataLake
+216,Santa Cruz Bikes,Santa Cruz,CA,Trek Crockett 5 Disc - 2018,Trek,Cyclocross Bicycles,2018,1799.99,13,2026-04-01 21:38:58.421075,DataLake
+217,Santa Cruz Bikes,Santa Cruz,CA,Trek Crockett 7 Disc - 2018,Trek,Cyclocross Bicycles,2018,2999.99,22,2026-04-01 21:38:58.421075,DataLake
+218,Santa Cruz Bikes,Santa Cruz,CA,Surly Straggler - 2018,Surly,Cyclocross Bicycles,2018,1549.0,25,2026-04-01 21:38:58.421075,DataLake
+219,Santa Cruz Bikes,Santa Cruz,CA,Surly Straggler 650b - 2018,Surly,Cyclocross Bicycles,2018,1549.0,13,2026-04-01 21:38:58.421075,DataLake
+220,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Original 21D - 2018,Electra,Cruisers Bicycles,2018,559.99,17,2026-04-01 21:38:58.421075,DataLake
+221,Santa Cruz Bikes,Santa Cruz,CA,Electra Cruiser 1 - 2016/2017/2018,Electra,Cruisers Bicycles,2018,269.99,14,2026-04-01 21:38:58.421075,DataLake
+222,Santa Cruz Bikes,Santa Cruz,CA,Electra Tiger Shark 3i - 2018,Electra,Cruisers Bicycles,2018,899.99,4,2026-04-01 21:38:58.421075,DataLake
+223,Santa Cruz Bikes,Santa Cruz,CA,Electra Queen of Hearts 3i - 2018,Electra,Cruisers Bicycles,2018,749.99,1,2026-04-01 21:38:58.421075,DataLake
+224,Santa Cruz Bikes,Santa Cruz,CA,Electra Super Moto 8i - 2018,Electra,Cruisers Bicycles,2018,899.99,11,2026-04-01 21:38:58.421075,DataLake
+225,Santa Cruz Bikes,Santa Cruz,CA,Electra Straight 8 3i - 2018,Electra,Cruisers Bicycles,2018,909.99,11,2026-04-01 21:38:58.421075,DataLake
+226,Santa Cruz Bikes,Santa Cruz,CA,Electra Cruiser 7D - 2016/2017/2018,Electra,Cruisers Bicycles,2018,319.99,27,2026-04-01 21:38:58.421075,DataLake
+227,Santa Cruz Bikes,Santa Cruz,CA,Electra Moto 3i - 2018,Electra,Cruisers Bicycles,2018,639.99,30,2026-04-01 21:38:58.421075,DataLake
+228,Santa Cruz Bikes,Santa Cruz,CA,Electra Cruiser 1 Ladies' - 2018,Electra,Cruisers Bicycles,2018,269.99,4,2026-04-01 21:38:58.421075,DataLake
+229,Santa Cruz Bikes,Santa Cruz,CA,Electra Cruiser 7D Ladies' - 2016/2018,Electra,Cruisers Bicycles,2018,319.99,7,2026-04-01 21:38:58.421075,DataLake
+230,Santa Cruz Bikes,Santa Cruz,CA,Electra Cruiser 1 Tall - 2016/2018,Electra,Cruisers Bicycles,2018,269.99,12,2026-04-01 21:38:58.421075,DataLake
+231,Santa Cruz Bikes,Santa Cruz,CA,Electra Cruiser Lux 3i - 2018,Electra,Cruisers Bicycles,2018,529.99,3,2026-04-01 21:38:58.421075,DataLake
+232,Santa Cruz Bikes,Santa Cruz,CA,Electra Cruiser Lux 7D - 2018,Electra,Cruisers Bicycles,2018,479.99,16,2026-04-01 21:38:58.421075,DataLake
+233,Santa Cruz Bikes,Santa Cruz,CA,Electra Delivery 3i - 2016/2017/2018,Electra,Cruisers Bicycles,2018,959.99,24,2026-04-01 21:38:58.421075,DataLake
+234,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Original 21D EQ - 2017/2018,Electra,Cruisers Bicycles,2018,679.99,18,2026-04-01 21:38:58.421075,DataLake
+235,Santa Cruz Bikes,Santa Cruz,CA,Electra Cruiser 7D (24-Inch) Ladies' - 2016/2018,Electra,Cruisers Bicycles,2018,319.99,19,2026-04-01 21:38:58.421075,DataLake
+236,Santa Cruz Bikes,Santa Cruz,CA,Electra Cruiser 7D Tall - 2016/2018,Electra,Cruisers Bicycles,2018,319.99,22,2026-04-01 21:38:58.421075,DataLake
+237,Santa Cruz Bikes,Santa Cruz,CA,Electra Cruiser Lux 1 - 2016/2018,Electra,Cruisers Bicycles,2018,429.99,27,2026-04-01 21:38:58.421075,DataLake
+238,Santa Cruz Bikes,Santa Cruz,CA,Electra Cruiser Lux 1 Ladies' - 2018,Electra,Cruisers Bicycles,2018,429.99,7,2026-04-01 21:38:58.421075,DataLake
+239,Santa Cruz Bikes,Santa Cruz,CA,Electra Cruiser Lux 3i Ladies' - 2018,Electra,Cruisers Bicycles,2018,529.99,25,2026-04-01 21:38:58.421075,DataLake
+240,Santa Cruz Bikes,Santa Cruz,CA,Electra Cruiser Lux 7D Ladies' - 2018,Electra,Cruisers Bicycles,2018,479.99,5,2026-04-01 21:38:58.421075,DataLake
+241,Santa Cruz Bikes,Santa Cruz,CA,Electra Cruiser Lux Fat Tire 7D - 2018,Electra,Cruisers Bicycles,2018,639.99,5,2026-04-01 21:38:58.421075,DataLake
+242,Santa Cruz Bikes,Santa Cruz,CA,Electra Daydreamer 3i Ladies' - 2018,Electra,Cruisers Bicycles,2018,899.99,13,2026-04-01 21:38:58.421075,DataLake
+243,Santa Cruz Bikes,Santa Cruz,CA,Electra Koa 3i Ladies' - 2018,Electra,Cruisers Bicycles,2018,899.99,7,2026-04-01 21:38:58.421075,DataLake
+244,Santa Cruz Bikes,Santa Cruz,CA,Electra Morningstar 3i Ladies' - 2018,Electra,Cruisers Bicycles,2018,749.99,18,2026-04-01 21:38:58.421075,DataLake
+245,Santa Cruz Bikes,Santa Cruz,CA,Electra Relic 3i - 2018,Electra,Cruisers Bicycles,2018,849.99,26,2026-04-01 21:38:58.421075,DataLake
+246,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Balloon 8D EQ - 2016/2017/2018,Electra,Cruisers Bicycles,2018,749.99,20,2026-04-01 21:38:58.421075,DataLake
+247,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Balloon 8D EQ Ladies' - 2016/2017/2018,Electra,Cruisers Bicycles,2018,749.99,28,2026-04-01 21:38:58.421075,DataLake
+248,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Commute 27D Ladies - 2018,Electra,Cruisers Bicycles,2018,899.99,17,2026-04-01 21:38:58.421075,DataLake
+249,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Commute 8D - 2018,Electra,Cruisers Bicycles,2018,749.99,17,2026-04-01 21:38:58.421075,DataLake
+250,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Commute 8D Ladies' - 2018,Electra,Cruisers Bicycles,2018,699.99,10,2026-04-01 21:38:58.421075,DataLake
+251,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Original 21D EQ Ladies' - 2018,Electra,Cruisers Bicycles,2018,679.99,11,2026-04-01 21:38:58.421075,DataLake
+252,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Original 21D Ladies' - 2018,Electra,Cruisers Bicycles,2018,559.99,10,2026-04-01 21:38:58.421075,DataLake
+253,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Original 3i EQ - 2017/2018,Electra,Cruisers Bicycles,2018,659.99,3,2026-04-01 21:38:58.421075,DataLake
+254,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Original 3i EQ Ladies' - 2018,Electra,Cruisers Bicycles,2018,639.99,0,2026-04-01 21:38:58.421075,DataLake
+255,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Original 7D EQ - 2018,Electra,Cruisers Bicycles,2018,599.99,15,2026-04-01 21:38:58.421075,DataLake
+256,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Original 7D EQ Ladies' - 2017/2018,Electra,Cruisers Bicycles,2018,599.99,14,2026-04-01 21:38:58.421075,DataLake
+257,Santa Cruz Bikes,Santa Cruz,CA,Electra White Water 3i - 2018,Electra,Cruisers Bicycles,2018,749.99,27,2026-04-01 21:38:58.421075,DataLake
+258,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Go! 8i - 2017/2018,Electra,Cruisers Bicycles,2018,2599.99,3,2026-04-01 21:38:58.421075,DataLake
+259,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Commute Go! - 2018,Electra,Cruisers Bicycles,2018,2999.99,2,2026-04-01 21:38:58.421075,DataLake
+260,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Commute Go! Ladies' - 2018,Electra,Cruisers Bicycles,2018,2999.99,28,2026-04-01 21:38:58.421075,DataLake
+261,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Go! 8i Ladies' - 2018,Electra,Cruisers Bicycles,2018,2599.99,16,2026-04-01 21:38:58.421075,DataLake
+262,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Balloon 3i EQ - 2017/2018,Electra,Cruisers Bicycles,2018,749.99,24,2026-04-01 21:38:58.421075,DataLake
+263,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Balloon 7i EQ Ladies' - 2017/2018,Electra,Cruisers Bicycles,2018,899.99,13,2026-04-01 21:38:58.421075,DataLake
+264,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Commute 27D - 2018,Electra,Cruisers Bicycles,2018,899.99,20,2026-04-01 21:38:58.421075,DataLake
+265,Santa Cruz Bikes,Santa Cruz,CA,Electra Amsterdam Fashion 3i Ladies' - 2017/2018,Electra,Cruisers Bicycles,2018,899.99,17,2026-04-01 21:38:58.421075,DataLake
+266,Santa Cruz Bikes,Santa Cruz,CA,Electra Amsterdam Royal 8i - 2017/2018,Electra,Cruisers Bicycles,2018,1259.9,25,2026-04-01 21:38:58.421075,DataLake
+267,Santa Cruz Bikes,Santa Cruz,CA,Electra Amsterdam Royal 8i Ladies - 2018,Electra,Cruisers Bicycles,2018,1199.99,10,2026-04-01 21:38:58.421075,DataLake
+268,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Balloon 3i EQ Ladies' - 2018,Electra,Cruisers Bicycles,2018,799.99,20,2026-04-01 21:38:58.421075,DataLake
+269,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Balloon 7i EQ - 2018,Electra,Cruisers Bicycles,2018,899.99,3,2026-04-01 21:38:58.421075,DataLake
+270,Santa Cruz Bikes,Santa Cruz,CA,Trek MT 201 - 2018,Trek,Children Bicycles,2018,249.99,6,2026-04-01 21:38:58.421075,DataLake
+271,Santa Cruz Bikes,Santa Cruz,CA,Strider Classic 12 Balance Bike - 2018,Strider,Children Bicycles,2018,89.99,21,2026-04-01 21:38:58.421075,DataLake
+272,Santa Cruz Bikes,Santa Cruz,CA,Strider Sport 16 - 2018,Strider,Children Bicycles,2018,249.99,16,2026-04-01 21:38:58.421075,DataLake
+273,Santa Cruz Bikes,Santa Cruz,CA,Strider Strider 20 Sport - 2018,Strider,Children Bicycles,2018,289.99,28,2026-04-01 21:38:58.421075,DataLake
+274,Santa Cruz Bikes,Santa Cruz,CA,Trek Superfly 20 - 2018,Trek,Children Bicycles,2018,399.99,1,2026-04-01 21:38:58.421075,DataLake
+275,Santa Cruz Bikes,Santa Cruz,CA,Trek Precaliber 12 Girl's - 2018,Trek,Children Bicycles,2018,199.99,27,2026-04-01 21:38:58.421075,DataLake
+276,Santa Cruz Bikes,Santa Cruz,CA,Trek Kickster - 2018,Trek,Children Bicycles,2018,159.99,23,2026-04-01 21:38:58.421075,DataLake
+277,Santa Cruz Bikes,Santa Cruz,CA,Trek Precaliber 12 Boy's - 2018,Trek,Children Bicycles,2018,199.99,22,2026-04-01 21:38:58.421075,DataLake
+278,Santa Cruz Bikes,Santa Cruz,CA,Trek Precaliber 16 Boy's - 2018,Trek,Children Bicycles,2018,209.99,16,2026-04-01 21:38:58.421075,DataLake
+279,Santa Cruz Bikes,Santa Cruz,CA,Trek Precaliber 16 Girl's - 2018,Trek,Children Bicycles,2018,209.99,6,2026-04-01 21:38:58.421075,DataLake
+280,Santa Cruz Bikes,Santa Cruz,CA,Trek Precaliber 20 6-speed Boy's - 2018,Trek,Children Bicycles,2018,289.99,14,2026-04-01 21:38:58.421075,DataLake
+281,Santa Cruz Bikes,Santa Cruz,CA,Trek Precaliber 20 6-speed Girl's - 2018,Trek,Children Bicycles,2018,289.99,20,2026-04-01 21:38:58.421075,DataLake
+282,Santa Cruz Bikes,Santa Cruz,CA,Trek Precaliber 20 Boy's - 2018,Trek,Children Bicycles,2018,229.99,19,2026-04-01 21:38:58.421075,DataLake
+283,Santa Cruz Bikes,Santa Cruz,CA,Trek Precaliber 20 Girl's - 2018,Trek,Children Bicycles,2018,229.99,28,2026-04-01 21:38:58.421075,DataLake
+284,Santa Cruz Bikes,Santa Cruz,CA,Trek Precaliber 24 (7-Speed) - Boys - 2018,Trek,Children Bicycles,2018,319.99,7,2026-04-01 21:38:58.421075,DataLake
+285,Santa Cruz Bikes,Santa Cruz,CA,Trek Precaliber 24 21-speed Boy's - 2018,Trek,Children Bicycles,2018,369.99,13,2026-04-01 21:38:58.421075,DataLake
+286,Santa Cruz Bikes,Santa Cruz,CA,Trek Precaliber 24 21-speed Girl's - 2018,Trek,Children Bicycles,2018,369.99,17,2026-04-01 21:38:58.421075,DataLake
+287,Santa Cruz Bikes,Santa Cruz,CA,Trek Precaliber 24 7-speed Girl's - 2018,Trek,Children Bicycles,2018,319.99,17,2026-04-01 21:38:58.421075,DataLake
+288,Santa Cruz Bikes,Santa Cruz,CA,Trek Superfly 24 - 2017/2018,Trek,Children Bicycles,2018,489.99,23,2026-04-01 21:38:58.421075,DataLake
+289,Santa Cruz Bikes,Santa Cruz,CA,Electra Cruiser 7D (24-Inch) Ladies' - 2016/2018,Electra,Children Bicycles,2018,319.99,11,2026-04-01 21:38:58.421075,DataLake
+290,Santa Cruz Bikes,Santa Cruz,CA,Electra Cyclosaurus 1 (16-inch) - Boy's - 2018,Electra,Children Bicycles,2018,279.99,6,2026-04-01 21:38:58.421075,DataLake
+291,Santa Cruz Bikes,Santa Cruz,CA,Electra Heartchya 1 (20-inch) - Girl's - 2018,Electra,Children Bicycles,2018,319.99,10,2026-04-01 21:38:58.421075,DataLake
+292,Santa Cruz Bikes,Santa Cruz,CA,Electra Savannah 1 (20-inch) - Girl's - 2018,Electra,Children Bicycles,2018,319.99,27,2026-04-01 21:38:58.421075,DataLake
+293,Santa Cruz Bikes,Santa Cruz,CA,Electra Soft Serve 1 (16-inch) - Girl's - 2018,Electra,Children Bicycles,2018,279.99,20,2026-04-01 21:38:58.421075,DataLake
+294,Santa Cruz Bikes,Santa Cruz,CA,"Electra Starship 1 16"" - 2018",Electra,Children Bicycles,2018,279.99,28,2026-04-01 21:38:58.421075,DataLake
+295,Santa Cruz Bikes,Santa Cruz,CA,Electra Straight 8 1 (16-inch) - Boy's - 2018,Electra,Children Bicycles,2018,279.99,2,2026-04-01 21:38:58.421075,DataLake
+296,Santa Cruz Bikes,Santa Cruz,CA,Electra Straight 8 1 (20-inch) - Boy's - 2018,Electra,Children Bicycles,2018,389.99,9,2026-04-01 21:38:58.421075,DataLake
+297,Santa Cruz Bikes,Santa Cruz,CA,"Electra Superbolt 1 20"" - 2018",Electra,Children Bicycles,2018,319.99,2,2026-04-01 21:38:58.421075,DataLake
+298,Santa Cruz Bikes,Santa Cruz,CA,"Electra Superbolt 3i 20"" - 2018",Electra,Children Bicycles,2018,369.99,8,2026-04-01 21:38:58.421075,DataLake
+299,Santa Cruz Bikes,Santa Cruz,CA,Electra Sweet Ride 1 (20-inch) - Girl's - 2018,Electra,Children Bicycles,2018,319.99,9,2026-04-01 21:38:58.421075,DataLake
+300,Santa Cruz Bikes,Santa Cruz,CA,Electra Sweet Ride 1 (20-inch) - Girl's - 2018,Electra,Children Bicycles,2018,319.99,9,2026-04-01 21:38:58.421075,DataLake
+301,Santa Cruz Bikes,Santa Cruz,CA,Electra Sweet Ride 3i (20-inch) - Girls' - 2018,Electra,Children Bicycles,2018,369.99,30,2026-04-01 21:38:58.421075,DataLake
+302,Santa Cruz Bikes,Santa Cruz,CA,Electra Sweet Ride 3i (20-inch) - Girls' - 2018,Electra,Children Bicycles,2018,369.99,30,2026-04-01 21:38:58.421075,DataLake
+303,Santa Cruz Bikes,Santa Cruz,CA,Electra Tiger Shark 1 (20-inch) - Boys' - 2018,Electra,Children Bicycles,2018,319.99,18,2026-04-01 21:38:58.421075,DataLake
+304,Santa Cruz Bikes,Santa Cruz,CA,Electra Tiger Shark 1 (20-inch) - Boys' - 2018,Electra,Children Bicycles,2018,319.99,18,2026-04-01 21:38:58.421075,DataLake
+305,Santa Cruz Bikes,Santa Cruz,CA,Electra Tiger Shark 3i (20-inch) - Boys' - 2018,Electra,Children Bicycles,2018,369.99,3,2026-04-01 21:38:58.421075,DataLake
+306,Santa Cruz Bikes,Santa Cruz,CA,Electra Tiger Shark 3i (20-inch) - Boys' - 2018,Electra,Children Bicycles,2018,369.99,3,2026-04-01 21:38:58.421075,DataLake
+307,Santa Cruz Bikes,Santa Cruz,CA,"Electra Treasure 1 20"" - 2018",Electra,Children Bicycles,2018,319.99,24,2026-04-01 21:38:58.421075,DataLake
+308,Santa Cruz Bikes,Santa Cruz,CA,"Electra Treasure 3i 20"" - 2018",Electra,Children Bicycles,2018,369.99,9,2026-04-01 21:38:58.421075,DataLake
+309,Santa Cruz Bikes,Santa Cruz,CA,"Electra Under-The-Sea 1 16"" - 2018",Electra,Children Bicycles,2018,279.99,22,2026-04-01 21:38:58.421075,DataLake
+310,Santa Cruz Bikes,Santa Cruz,CA,Electra Water Lily 1 (16-inch) - Girl's - 2018,Electra,Children Bicycles,2018,279.99,26,2026-04-01 21:38:58.421075,DataLake
+311,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Original 21D - 2018,Electra,Comfort Bicycles,2018,559.99,18,2026-04-01 21:38:58.421075,DataLake
+312,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Balloon 3i EQ Ladies' - 2018,Electra,Comfort Bicycles,2018,799.99,7,2026-04-01 21:38:58.421075,DataLake
+313,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Balloon 7i EQ - 2018,Electra,Comfort Bicycles,2018,899.99,10,2026-04-01 21:38:58.421075,DataLake
+314,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Original 1 - 2018,Electra,Comfort Bicycles,2018,449.99,0,2026-04-01 21:38:58.421075,DataLake
+315,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Go! 8i - 2017/2018,Electra,Comfort Bicycles,2018,2599.99,12,2026-04-01 21:38:58.421075,DataLake
+316,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Original 21D EQ - 2017/2018,Electra,Comfort Bicycles,2018,679.99,15,2026-04-01 21:38:58.421075,DataLake
+317,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Balloon 3i EQ - 2017/2018,Electra,Comfort Bicycles,2018,749.99,23,2026-04-01 21:38:58.421075,DataLake
+318,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Balloon 7i EQ Ladies' - 2017/2018,Electra,Comfort Bicycles,2018,899.99,21,2026-04-01 21:38:58.421075,DataLake
+319,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Balloon 8D EQ - 2016/2017/2018,Electra,Comfort Bicycles,2018,749.99,17,2026-04-01 21:38:58.421075,DataLake
+320,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Balloon 8D EQ Ladies' - 2016/2017/2018,Electra,Comfort Bicycles,2018,749.99,23,2026-04-01 21:38:58.421075,DataLake
+321,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Commute 27D - 2018,Electra,Comfort Bicycles,2018,899.99,7,2026-04-01 21:38:58.421075,DataLake
+322,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Commute 27D Ladies - 2018,Electra,Comfort Bicycles,2018,899.99,18,2026-04-01 21:38:58.421075,DataLake
+323,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Commute 8D - 2018,Electra,Comfort Bicycles,2018,749.99,20,2026-04-01 21:38:58.421075,DataLake
+324,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Commute 8D Ladies' - 2018,Electra,Comfort Bicycles,2018,699.99,23,2026-04-01 21:38:58.421075,DataLake
+325,Santa Cruz Bikes,Santa Cruz,CA,Electra Townie Original 1 Ladies' - 2018,Electra,Comfort Bicycles,2018,449.99,14,2026-04-01 21:38:58.421075,DataLake
+326,Baldwin Bikes,Baldwin,NY,Trek 820 - 2016,Trek,Mountain Bikes,2016,379.99,14,2026-04-01 21:38:58.421075,DataLake
+327,Baldwin Bikes,Baldwin,NY,Ritchey Timberwolf Frameset - 2016,Ritchey,Mountain Bikes,2016,749.99,16,2026-04-01 21:38:58.421075,DataLake
+328,Baldwin Bikes,Baldwin,NY,Surly Wednesday Frameset - 2016,Surly,Mountain Bikes,2016,999.99,28,2026-04-01 21:38:58.421075,DataLake
+329,Baldwin Bikes,Baldwin,NY,Trek Fuel EX 8 29 - 2016,Trek,Mountain Bikes,2016,2899.99,2,2026-04-01 21:38:58.421075,DataLake
+330,Baldwin Bikes,Baldwin,NY,Heller Shagamaw Frame - 2016,Heller,Mountain Bikes,2016,1320.99,1,2026-04-01 21:38:58.421075,DataLake
+331,Baldwin Bikes,Baldwin,NY,Surly Ice Cream Truck Frameset - 2016,Surly,Mountain Bikes,2016,469.99,11,2026-04-01 21:38:58.421075,DataLake
+332,Baldwin Bikes,Baldwin,NY,Trek Slash 8 27.5 - 2016,Trek,Mountain Bikes,2016,3999.99,8,2026-04-01 21:38:58.421075,DataLake
+333,Baldwin Bikes,Baldwin,NY,Trek Remedy 29 Carbon Frameset - 2016,Trek,Mountain Bikes,2016,1799.99,1,2026-04-01 21:38:58.421075,DataLake
+334,Baldwin Bikes,Baldwin,NY,Trek Conduit+ - 2016,Trek,Electric Bikes,2016,2999.99,17,2026-04-01 21:38:58.421075,DataLake
+335,Baldwin Bikes,Baldwin,NY,Surly Straggler - 2016,Surly,Cyclocross Bicycles,2016,1549.0,13,2026-04-01 21:38:58.421075,DataLake
+336,Baldwin Bikes,Baldwin,NY,Surly Straggler 650b - 2016,Surly,Cyclocross Bicycles,2016,1680.99,21,2026-04-01 21:38:58.421075,DataLake
+337,Baldwin Bikes,Baldwin,NY,Electra Townie Original 21D - 2016,Electra,Cruisers Bicycles,2016,549.99,2,2026-04-01 21:38:58.421075,DataLake
+338,Baldwin Bikes,Baldwin,NY,Electra Townie Original 21D - 2016,Electra,Cruisers Bicycles,2016,549.99,2,2026-04-01 21:38:58.421075,DataLake
+339,Baldwin Bikes,Baldwin,NY,Electra Cruiser 1 (24-Inch) - 2016,Electra,Cruisers Bicycles,2016,269.99,1,2026-04-01 21:38:58.421075,DataLake
+340,Baldwin Bikes,Baldwin,NY,Electra Cruiser 1 (24-Inch) - 2016,Electra,Cruisers Bicycles,2016,269.99,1,2026-04-01 21:38:58.421075,DataLake
+341,Baldwin Bikes,Baldwin,NY,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,Electra,Cruisers Bicycles,2016,269.99,18,2026-04-01 21:38:58.421075,DataLake
+342,Baldwin Bikes,Baldwin,NY,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,Electra,Cruisers Bicycles,2016,269.99,18,2026-04-01 21:38:58.421075,DataLake
+343,Baldwin Bikes,Baldwin,NY,Electra Moto 1 - 2016,Electra,Cruisers Bicycles,2016,529.99,6,2026-04-01 21:38:58.421075,DataLake
+344,Baldwin Bikes,Baldwin,NY,Electra Townie Original 7D EQ - 2016,Electra,Cruisers Bicycles,2016,599.99,20,2026-04-01 21:38:58.421075,DataLake
+345,Baldwin Bikes,Baldwin,NY,Pure Cycles Vine 8-Speed - 2016,Pure Cycles,Cruisers Bicycles,2016,429.0,3,2026-04-01 21:38:58.421075,DataLake
+346,Baldwin Bikes,Baldwin,NY,Pure Cycles Western 3-Speed - Women's - 2015/2016,Pure Cycles,Cruisers Bicycles,2016,449.0,13,2026-04-01 21:38:58.421075,DataLake
+347,Baldwin Bikes,Baldwin,NY,Pure Cycles William 3-Speed - 2016,Pure Cycles,Cruisers Bicycles,2016,449.0,15,2026-04-01 21:38:58.421075,DataLake
+348,Baldwin Bikes,Baldwin,NY,Electra Townie Original 7D EQ - Women's - 2016,Electra,Cruisers Bicycles,2016,599.99,20,2026-04-01 21:38:58.421075,DataLake
+349,Baldwin Bikes,Baldwin,NY,Electra Cruiser 1 (24-Inch) - 2016,Electra,Children Bicycles,2016,269.99,16,2026-04-01 21:38:58.421075,DataLake
+350,Baldwin Bikes,Baldwin,NY,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,Electra,Children Bicycles,2016,269.99,0,2026-04-01 21:38:58.421075,DataLake
+351,Baldwin Bikes,Baldwin,NY,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,Electra,Children Bicycles,2016,299.99,12,2026-04-01 21:38:58.421075,DataLake
+352,Baldwin Bikes,Baldwin,NY,Electra Townie Original 21D - 2016,Electra,Comfort Bicycles,2016,549.99,16,2026-04-01 21:38:58.421075,DataLake
+353,Baldwin Bikes,Baldwin,NY,Electra Townie Original 7D - 2015/2016,Electra,Comfort Bicycles,2016,499.99,18,2026-04-01 21:38:58.421075,DataLake
+354,Baldwin Bikes,Baldwin,NY,Electra Townie Original 7D EQ - 2016,Electra,Comfort Bicycles,2016,599.99,2,2026-04-01 21:38:58.421075,DataLake
+355,Baldwin Bikes,Baldwin,NY,Surly Big Dummy Frameset - 2017,Surly,Mountain Bikes,2017,999.99,10,2026-04-01 21:38:58.421075,DataLake
+356,Baldwin Bikes,Baldwin,NY,Surly Karate Monkey 27.5+ Frameset - 2017,Surly,Mountain Bikes,2017,2499.99,25,2026-04-01 21:38:58.421075,DataLake
+357,Baldwin Bikes,Baldwin,NY,Trek X-Caliber 8 - 2017,Trek,Mountain Bikes,2017,999.99,29,2026-04-01 21:38:58.421075,DataLake
+358,Baldwin Bikes,Baldwin,NY,Surly Ice Cream Truck Frameset - 2017,Surly,Mountain Bikes,2017,999.99,17,2026-04-01 21:38:58.421075,DataLake
+359,Baldwin Bikes,Baldwin,NY,Surly Wednesday - 2017,Surly,Mountain Bikes,2017,1632.99,10,2026-04-01 21:38:58.421075,DataLake
+360,Baldwin Bikes,Baldwin,NY,Trek Farley Alloy Frameset - 2017,Trek,Mountain Bikes,2017,469.99,13,2026-04-01 21:38:58.421075,DataLake
+361,Baldwin Bikes,Baldwin,NY,Surly Wednesday Frameset - 2017,Surly,Mountain Bikes,2017,469.99,8,2026-04-01 21:38:58.421075,DataLake
+362,Baldwin Bikes,Baldwin,NY,Trek Session DH 27.5 Carbon Frameset - 2017,Trek,Mountain Bikes,2017,469.99,24,2026-04-01 21:38:58.421075,DataLake
+363,Baldwin Bikes,Baldwin,NY,Sun Bicycles Spider 3i - 2017,Sun Bicycles,Mountain Bikes,2017,832.99,25,2026-04-01 21:38:58.421075,DataLake
+364,Baldwin Bikes,Baldwin,NY,Surly Troll Frameset - 2017,Surly,Mountain Bikes,2017,832.99,15,2026-04-01 21:38:58.421075,DataLake
+365,Baldwin Bikes,Baldwin,NY,Haro Flightline One ST - 2017,Haro,Mountain Bikes,2017,379.99,5,2026-04-01 21:38:58.421075,DataLake
+366,Baldwin Bikes,Baldwin,NY,Haro Flightline Two 26 Plus - 2017,Haro,Mountain Bikes,2017,549.99,18,2026-04-01 21:38:58.421075,DataLake
+367,Baldwin Bikes,Baldwin,NY,Trek Stache 5 - 2017,Trek,Mountain Bikes,2017,1499.99,28,2026-04-01 21:38:58.421075,DataLake
+368,Baldwin Bikes,Baldwin,NY,Trek Fuel EX 9.8 29 - 2017,Trek,Mountain Bikes,2017,4999.99,15,2026-04-01 21:38:58.421075,DataLake
+369,Baldwin Bikes,Baldwin,NY,Haro Shift R3 - 2017,Haro,Mountain Bikes,2017,1469.99,6,2026-04-01 21:38:58.421075,DataLake
+370,Baldwin Bikes,Baldwin,NY,Trek Fuel EX 5 27.5 Plus - 2017,Trek,Mountain Bikes,2017,2299.99,16,2026-04-01 21:38:58.421075,DataLake
+371,Baldwin Bikes,Baldwin,NY,Trek Fuel EX 9.8 27.5 Plus - 2017,Trek,Mountain Bikes,2017,5299.99,2,2026-04-01 21:38:58.421075,DataLake
+372,Baldwin Bikes,Baldwin,NY,Haro SR 1.1 - 2017,Haro,Mountain Bikes,2017,539.99,24,2026-04-01 21:38:58.421075,DataLake
+373,Baldwin Bikes,Baldwin,NY,Haro SR 1.2 - 2017,Haro,Mountain Bikes,2017,869.99,13,2026-04-01 21:38:58.421075,DataLake
+374,Baldwin Bikes,Baldwin,NY,Haro SR 1.3 - 2017,Haro,Mountain Bikes,2017,1409.99,18,2026-04-01 21:38:58.421075,DataLake
+375,Baldwin Bikes,Baldwin,NY,Trek Remedy 9.8 - 2017,Trek,Mountain Bikes,2017,5299.99,0,2026-04-01 21:38:58.421075,DataLake
+376,Baldwin Bikes,Baldwin,NY,Trek Emonda S 4 - 2017,Trek,Road Bikes,2017,1499.99,20,2026-04-01 21:38:58.421075,DataLake
+377,Baldwin Bikes,Baldwin,NY,Trek Domane SL 6 - 2017,Trek,Road Bikes,2017,3499.99,4,2026-04-01 21:38:58.421075,DataLake
+378,Baldwin Bikes,Baldwin,NY,Trek Silque SLR 7 Women's - 2017,Trek,Road Bikes,2017,5999.99,7,2026-04-01 21:38:58.421075,DataLake
+379,Baldwin Bikes,Baldwin,NY,Trek Silque SLR 8 Women's - 2017,Trek,Road Bikes,2017,6499.99,8,2026-04-01 21:38:58.421075,DataLake
+380,Baldwin Bikes,Baldwin,NY,Surly Steamroller - 2017,Surly,Road Bikes,2017,875.99,23,2026-04-01 21:38:58.421075,DataLake
+381,Baldwin Bikes,Baldwin,NY,Surly Ogre Frameset - 2017,Surly,Road Bikes,2017,749.99,19,2026-04-01 21:38:58.421075,DataLake
+382,Baldwin Bikes,Baldwin,NY,Trek Domane SL Disc Frameset - 2017,Trek,Road Bikes,2017,3199.99,6,2026-04-01 21:38:58.421075,DataLake
+383,Baldwin Bikes,Baldwin,NY,Trek Domane S 6 - 2017,Trek,Road Bikes,2017,2699.99,5,2026-04-01 21:38:58.421075,DataLake
+384,Baldwin Bikes,Baldwin,NY,Trek Domane SLR 6 Disc - 2017,Trek,Road Bikes,2017,5499.99,20,2026-04-01 21:38:58.421075,DataLake
+385,Baldwin Bikes,Baldwin,NY,Trek Emonda S 5 - 2017,Trek,Road Bikes,2017,1999.99,27,2026-04-01 21:38:58.421075,DataLake
+386,Baldwin Bikes,Baldwin,NY,Trek Madone 9.2 - 2017,Trek,Road Bikes,2017,4999.99,15,2026-04-01 21:38:58.421075,DataLake
+387,Baldwin Bikes,Baldwin,NY,Trek Domane S 5 Disc - 2017,Trek,Road Bikes,2017,2599.99,17,2026-04-01 21:38:58.421075,DataLake
+388,Baldwin Bikes,Baldwin,NY,Sun Bicycles ElectroLite - 2017,Sun Bicycles,Electric Bikes,2017,1559.99,1,2026-04-01 21:38:58.421075,DataLake
+389,Baldwin Bikes,Baldwin,NY,Trek Powerfly 8 FS Plus - 2017,Trek,Electric Bikes,2017,4999.99,20,2026-04-01 21:38:58.421075,DataLake
+390,Baldwin Bikes,Baldwin,NY,Trek Boone 7 - 2017,Trek,Cyclocross Bicycles,2017,3499.99,4,2026-04-01 21:38:58.421075,DataLake
+391,Baldwin Bikes,Baldwin,NY,Trek Boone Race Shop Limited - 2017,Trek,Cyclocross Bicycles,2017,3499.99,5,2026-04-01 21:38:58.421075,DataLake
+392,Baldwin Bikes,Baldwin,NY,Electra Townie Original 7D - 2017,Electra,Cruisers Bicycles,2017,489.99,30,2026-04-01 21:38:58.421075,DataLake
+393,Baldwin Bikes,Baldwin,NY,Sun Bicycles Lil Bolt Type-R - 2017,Sun Bicycles,Cruisers Bicycles,2017,346.99,16,2026-04-01 21:38:58.421075,DataLake
+394,Baldwin Bikes,Baldwin,NY,Sun Bicycles Revolutions 24 - 2017,Sun Bicycles,Cruisers Bicycles,2017,250.99,22,2026-04-01 21:38:58.421075,DataLake
+395,Baldwin Bikes,Baldwin,NY,Sun Bicycles Revolutions 24 - Girl's - 2017,Sun Bicycles,Cruisers Bicycles,2017,250.99,8,2026-04-01 21:38:58.421075,DataLake
+396,Baldwin Bikes,Baldwin,NY,Sun Bicycles Cruz 3 - 2017,Sun Bicycles,Cruisers Bicycles,2017,449.99,23,2026-04-01 21:38:58.421075,DataLake
+397,Baldwin Bikes,Baldwin,NY,Sun Bicycles Cruz 7 - 2017,Sun Bicycles,Cruisers Bicycles,2017,416.99,22,2026-04-01 21:38:58.421075,DataLake
+398,Baldwin Bikes,Baldwin,NY,Electra Amsterdam Original 3i - 2015/2017,Electra,Cruisers Bicycles,2017,659.99,6,2026-04-01 21:38:58.421075,DataLake
+399,Baldwin Bikes,Baldwin,NY,Sun Bicycles Atlas X-Type - 2017,Sun Bicycles,Cruisers Bicycles,2017,416.99,30,2026-04-01 21:38:58.421075,DataLake
+400,Baldwin Bikes,Baldwin,NY,Sun Bicycles Biscayne Tandem 7 - 2017,Sun Bicycles,Cruisers Bicycles,2017,619.99,1,2026-04-01 21:38:58.421075,DataLake
+401,Baldwin Bikes,Baldwin,NY,Sun Bicycles Brickell Tandem 7 - 2017,Sun Bicycles,Cruisers Bicycles,2017,749.99,20,2026-04-01 21:38:58.421075,DataLake
+402,Baldwin Bikes,Baldwin,NY,Electra Cruiser Lux 1 - 2017,Electra,Cruisers Bicycles,2017,439.99,23,2026-04-01 21:38:58.421075,DataLake
+403,Baldwin Bikes,Baldwin,NY,Electra Cruiser Lux Fat Tire 1 Ladies - 2017,Electra,Cruisers Bicycles,2017,599.99,11,2026-04-01 21:38:58.421075,DataLake
+404,Baldwin Bikes,Baldwin,NY,"Electra Girl's Hawaii 1 16"" - 2017",Electra,Cruisers Bicycles,2017,299.99,20,2026-04-01 21:38:58.421075,DataLake
+405,Baldwin Bikes,Baldwin,NY,Electra Glam Punk 3i Ladies' - 2017,Electra,Cruisers Bicycles,2017,799.99,25,2026-04-01 21:38:58.421075,DataLake
+406,Baldwin Bikes,Baldwin,NY,Sun Bicycles Biscayne Tandem CB - 2017,Sun Bicycles,Cruisers Bicycles,2017,647.99,4,2026-04-01 21:38:58.421075,DataLake
+407,Baldwin Bikes,Baldwin,NY,Sun Bicycles Boardwalk (24-inch Wheels) - 2017,Sun Bicycles,Cruisers Bicycles,2017,402.99,29,2026-04-01 21:38:58.421075,DataLake
+408,Baldwin Bikes,Baldwin,NY,Sun Bicycles Brickell Tandem CB - 2017,Sun Bicycles,Cruisers Bicycles,2017,761.99,27,2026-04-01 21:38:58.421075,DataLake
+409,Baldwin Bikes,Baldwin,NY,Electra Amsterdam Fashion 7i Ladies' - 2017,Electra,Cruisers Bicycles,2017,1099.99,19,2026-04-01 21:38:58.421075,DataLake
+410,Baldwin Bikes,Baldwin,NY,Electra Amsterdam Original 3i Ladies' - 2017,Electra,Cruisers Bicycles,2017,659.99,4,2026-04-01 21:38:58.421075,DataLake
+411,Baldwin Bikes,Baldwin,NY,Trek Boy's Kickster - 2015/2017,Trek,Children Bicycles,2017,149.99,21,2026-04-01 21:38:58.421075,DataLake
+412,Baldwin Bikes,Baldwin,NY,Sun Bicycles Lil Kitt'n - 2017,Sun Bicycles,Children Bicycles,2017,109.99,22,2026-04-01 21:38:58.421075,DataLake
+413,Baldwin Bikes,Baldwin,NY,Haro Downtown 16 - 2017,Haro,Children Bicycles,2017,329.99,6,2026-04-01 21:38:58.421075,DataLake
+414,Baldwin Bikes,Baldwin,NY,Trek Girl's Kickster - 2017,Trek,Children Bicycles,2017,149.99,24,2026-04-01 21:38:58.421075,DataLake
+415,Baldwin Bikes,Baldwin,NY,Trek Precaliber 12 Boys - 2017,Trek,Children Bicycles,2017,189.99,14,2026-04-01 21:38:58.421075,DataLake
+416,Baldwin Bikes,Baldwin,NY,Trek Precaliber 12 Girls - 2017,Trek,Children Bicycles,2017,189.99,8,2026-04-01 21:38:58.421075,DataLake
+417,Baldwin Bikes,Baldwin,NY,Trek Precaliber 16 Boys - 2017,Trek,Children Bicycles,2017,209.99,8,2026-04-01 21:38:58.421075,DataLake
+418,Baldwin Bikes,Baldwin,NY,Trek Precaliber 16 Girls - 2017,Trek,Children Bicycles,2017,209.99,26,2026-04-01 21:38:58.421075,DataLake
+419,Baldwin Bikes,Baldwin,NY,Trek Precaliber 24 (21-Speed) - Girls - 2017,Trek,Children Bicycles,2017,349.99,0,2026-04-01 21:38:58.421075,DataLake
+420,Baldwin Bikes,Baldwin,NY,Haro Shredder 20 - 2017,Haro,Children Bicycles,2017,209.99,22,2026-04-01 21:38:58.421075,DataLake
+421,Baldwin Bikes,Baldwin,NY,Haro Shredder 20 - 2017,Haro,Children Bicycles,2017,209.99,22,2026-04-01 21:38:58.421075,DataLake
+422,Baldwin Bikes,Baldwin,NY,Haro Shredder 20 Girls - 2017,Haro,Children Bicycles,2017,209.99,22,2026-04-01 21:38:58.421075,DataLake
+423,Baldwin Bikes,Baldwin,NY,Haro Shredder 20 Girls - 2017,Haro,Children Bicycles,2017,209.99,22,2026-04-01 21:38:58.421075,DataLake
+424,Baldwin Bikes,Baldwin,NY,Haro Shredder Pro 20 - 2017,Haro,Children Bicycles,2017,249.99,2,2026-04-01 21:38:58.421075,DataLake
+425,Baldwin Bikes,Baldwin,NY,Haro Shredder Pro 20 - 2017,Haro,Children Bicycles,2017,249.99,2,2026-04-01 21:38:58.421075,DataLake
+426,Baldwin Bikes,Baldwin,NY,"Electra Girl's Hawaii 1 16"" - 2017",Electra,Children Bicycles,2017,299.99,10,2026-04-01 21:38:58.421075,DataLake
+427,Baldwin Bikes,Baldwin,NY,Electra Moto 3i (20-inch) - Boy's - 2017,Electra,Children Bicycles,2017,349.99,22,2026-04-01 21:38:58.421075,DataLake
+428,Baldwin Bikes,Baldwin,NY,Electra Savannah 3i (20-inch) - Girl's - 2017,Electra,Children Bicycles,2017,349.99,15,2026-04-01 21:38:58.421075,DataLake
+429,Baldwin Bikes,Baldwin,NY,Electra Straight 8 3i (20-inch) - Boy's - 2017,Electra,Children Bicycles,2017,489.99,14,2026-04-01 21:38:58.421075,DataLake
+430,Baldwin Bikes,Baldwin,NY,Electra Sugar Skulls 1 (20-inch) - Girl's - 2017,Electra,Children Bicycles,2017,299.99,24,2026-04-01 21:38:58.421075,DataLake
+431,Baldwin Bikes,Baldwin,NY,Electra Townie 3i EQ (20-inch) - Boys' - 2017,Electra,Children Bicycles,2017,489.99,12,2026-04-01 21:38:58.421075,DataLake
+432,Baldwin Bikes,Baldwin,NY,Electra Townie 7D (20-inch) - Boys' - 2017,Electra,Children Bicycles,2017,339.99,4,2026-04-01 21:38:58.421075,DataLake
+433,Baldwin Bikes,Baldwin,NY,Electra Townie Original 7D - 2017,Electra,Comfort Bicycles,2017,489.99,12,2026-04-01 21:38:58.421075,DataLake
+434,Baldwin Bikes,Baldwin,NY,Sun Bicycles Streamway 3 - 2017,Sun Bicycles,Comfort Bicycles,2017,551.99,1,2026-04-01 21:38:58.421075,DataLake
+435,Baldwin Bikes,Baldwin,NY,Sun Bicycles Streamway - 2017,Sun Bicycles,Comfort Bicycles,2017,481.99,26,2026-04-01 21:38:58.421075,DataLake
+436,Baldwin Bikes,Baldwin,NY,Sun Bicycles Streamway 7 - 2017,Sun Bicycles,Comfort Bicycles,2017,533.99,3,2026-04-01 21:38:58.421075,DataLake
+437,Baldwin Bikes,Baldwin,NY,Sun Bicycles Cruz 3 - 2017,Sun Bicycles,Comfort Bicycles,2017,449.99,7,2026-04-01 21:38:58.421075,DataLake
+438,Baldwin Bikes,Baldwin,NY,Sun Bicycles Cruz 7 - 2017,Sun Bicycles,Comfort Bicycles,2017,416.99,29,2026-04-01 21:38:58.421075,DataLake
+439,Baldwin Bikes,Baldwin,NY,Sun Bicycles Cruz 3 - Women's - 2017,Sun Bicycles,Comfort Bicycles,2017,449.99,29,2026-04-01 21:38:58.421075,DataLake
+440,Baldwin Bikes,Baldwin,NY,Sun Bicycles Cruz 7 - Women's - 2017,Sun Bicycles,Comfort Bicycles,2017,416.99,25,2026-04-01 21:38:58.421075,DataLake
+441,Baldwin Bikes,Baldwin,NY,Sun Bicycles Drifter 7 - 2017,Sun Bicycles,Comfort Bicycles,2017,470.99,7,2026-04-01 21:38:58.421075,DataLake
+442,Baldwin Bikes,Baldwin,NY,Sun Bicycles Drifter 7 - Women's - 2017,Sun Bicycles,Comfort Bicycles,2017,470.99,6,2026-04-01 21:38:58.421075,DataLake
+443,Baldwin Bikes,Baldwin,NY,Trek 820 - 2018,Trek,Mountain Bikes,2018,379.99,1,2026-04-01 21:38:58.421075,DataLake
+444,Baldwin Bikes,Baldwin,NY,Trek Marlin 5 - 2018,Trek,Mountain Bikes,2018,489.99,7,2026-04-01 21:38:58.421075,DataLake
+445,Baldwin Bikes,Baldwin,NY,Trek Marlin 6 - 2018,Trek,Mountain Bikes,2018,579.99,12,2026-04-01 21:38:58.421075,DataLake
+446,Baldwin Bikes,Baldwin,NY,Trek Fuel EX 8 29 - 2018,Trek,Mountain Bikes,2018,3199.99,19,2026-04-01 21:38:58.421075,DataLake
+447,Baldwin Bikes,Baldwin,NY,Trek Marlin 7 - 2017/2018,Trek,Mountain Bikes,2018,749.99,17,2026-04-01 21:38:58.421075,DataLake
+448,Baldwin Bikes,Baldwin,NY,Trek Ticket S Frame - 2018,Trek,Mountain Bikes,2018,1469.99,18,2026-04-01 21:38:58.421075,DataLake
+449,Baldwin Bikes,Baldwin,NY,Trek X-Caliber 8 - 2018,Trek,Mountain Bikes,2018,999.99,25,2026-04-01 21:38:58.421075,DataLake
+450,Baldwin Bikes,Baldwin,NY,Trek Kids' Neko - 2018,Trek,Mountain Bikes,2018,469.99,23,2026-04-01 21:38:58.421075,DataLake
+451,Baldwin Bikes,Baldwin,NY,Trek Fuel EX 7 29 - 2018,Trek,Mountain Bikes,2018,2499.99,16,2026-04-01 21:38:58.421075,DataLake
+452,Baldwin Bikes,Baldwin,NY,Surly Krampus Frameset - 2018,Surly,Mountain Bikes,2018,2499.99,3,2026-04-01 21:38:58.421075,DataLake
+453,Baldwin Bikes,Baldwin,NY,Surly Troll Frameset - 2018,Surly,Mountain Bikes,2018,2499.99,11,2026-04-01 21:38:58.421075,DataLake
+454,Baldwin Bikes,Baldwin,NY,Trek Farley Carbon Frameset - 2018,Trek,Mountain Bikes,2018,999.99,18,2026-04-01 21:38:58.421075,DataLake
+455,Baldwin Bikes,Baldwin,NY,Surly Krampus - 2018,Surly,Mountain Bikes,2018,1499.0,4,2026-04-01 21:38:58.421075,DataLake
+456,Baldwin Bikes,Baldwin,NY,Trek Kids' Dual Sport - 2018,Trek,Mountain Bikes,2018,469.99,10,2026-04-01 21:38:58.421075,DataLake
+457,Baldwin Bikes,Baldwin,NY,Surly Big Fat Dummy Frameset - 2018,Surly,Mountain Bikes,2018,469.99,13,2026-04-01 21:38:58.421075,DataLake
+458,Baldwin Bikes,Baldwin,NY,Surly Pack Rat Frameset - 2018,Surly,Mountain Bikes,2018,469.99,12,2026-04-01 21:38:58.421075,DataLake
+459,Baldwin Bikes,Baldwin,NY,Surly ECR 27.5 - 2018,Surly,Mountain Bikes,2018,1899.0,28,2026-04-01 21:38:58.421075,DataLake
+460,Baldwin Bikes,Baldwin,NY,Trek X-Caliber 7 - 2018,Trek,Mountain Bikes,2018,919.99,21,2026-04-01 21:38:58.421075,DataLake
+461,Baldwin Bikes,Baldwin,NY,Trek Stache Carbon Frameset - 2018,Trek,Mountain Bikes,2018,919.99,17,2026-04-01 21:38:58.421075,DataLake
+462,Baldwin Bikes,Baldwin,NY,Heller Bloodhound Trail - 2018,Heller,Mountain Bikes,2018,2599.0,9,2026-04-01 21:38:58.421075,DataLake
+463,Baldwin Bikes,Baldwin,NY,Trek Procal AL Frameset - 2018,Trek,Mountain Bikes,2018,1499.99,6,2026-04-01 21:38:58.421075,DataLake
+464,Baldwin Bikes,Baldwin,NY,Trek Procaliber Frameset - 2018,Trek,Mountain Bikes,2018,1499.99,28,2026-04-01 21:38:58.421075,DataLake
+465,Baldwin Bikes,Baldwin,NY,Trek Remedy 27.5 C Frameset - 2018,Trek,Mountain Bikes,2018,1499.99,13,2026-04-01 21:38:58.421075,DataLake
+466,Baldwin Bikes,Baldwin,NY,Trek X-Caliber Frameset - 2018,Trek,Mountain Bikes,2018,1499.99,30,2026-04-01 21:38:58.421075,DataLake
+467,Baldwin Bikes,Baldwin,NY,Trek Procaliber 6 - 2018,Trek,Mountain Bikes,2018,1799.99,8,2026-04-01 21:38:58.421075,DataLake
+468,Baldwin Bikes,Baldwin,NY,Heller Shagamaw GX1 - 2018,Heller,Mountain Bikes,2018,2599.0,1,2026-04-01 21:38:58.421075,DataLake
+469,Baldwin Bikes,Baldwin,NY,Trek Fuel EX 5 Plus - 2018,Trek,Mountain Bikes,2018,2249.99,16,2026-04-01 21:38:58.421075,DataLake
+470,Baldwin Bikes,Baldwin,NY,Trek Remedy 7 27.5 - 2018,Trek,Mountain Bikes,2018,2999.99,24,2026-04-01 21:38:58.421075,DataLake
+471,Baldwin Bikes,Baldwin,NY,Trek Remedy 9.8 27.5 - 2018,Trek,Mountain Bikes,2018,4999.99,13,2026-04-01 21:38:58.421075,DataLake
+472,Baldwin Bikes,Baldwin,NY,Trek Stache 5 - 2018,Trek,Mountain Bikes,2018,1599.99,28,2026-04-01 21:38:58.421075,DataLake
+473,Baldwin Bikes,Baldwin,NY,Trek Fuel EX 8 29 XT - 2018,Trek,Mountain Bikes,2018,3199.99,24,2026-04-01 21:38:58.421075,DataLake
+474,Baldwin Bikes,Baldwin,NY,Trek Domane ALR 3 - 2018,Trek,Road Bikes,2018,1099.99,12,2026-04-01 21:38:58.421075,DataLake
+475,Baldwin Bikes,Baldwin,NY,Trek Domane ALR 4 Disc - 2018,Trek,Road Bikes,2018,1549.99,4,2026-04-01 21:38:58.421075,DataLake
+476,Baldwin Bikes,Baldwin,NY,Trek Domane ALR 5 Disc - 2018,Trek,Road Bikes,2018,1799.99,23,2026-04-01 21:38:58.421075,DataLake
+477,Baldwin Bikes,Baldwin,NY,Trek Domane SLR 6 - 2018,Trek,Road Bikes,2018,4999.99,3,2026-04-01 21:38:58.421075,DataLake
+478,Baldwin Bikes,Baldwin,NY,Trek Domane ALR 5 Gravel - 2018,Trek,Road Bikes,2018,1799.99,13,2026-04-01 21:38:58.421075,DataLake
+479,Baldwin Bikes,Baldwin,NY,Trek Domane SL 8 Disc - 2018,Trek,Road Bikes,2018,5499.99,27,2026-04-01 21:38:58.421075,DataLake
+480,Baldwin Bikes,Baldwin,NY,Trek Domane SLR 8 Disc - 2018,Trek,Road Bikes,2018,7499.99,22,2026-04-01 21:38:58.421075,DataLake
+481,Baldwin Bikes,Baldwin,NY,Trek Emonda SL 7 - 2018,Trek,Road Bikes,2018,4499.99,7,2026-04-01 21:38:58.421075,DataLake
+482,Baldwin Bikes,Baldwin,NY,Trek Domane ALR 4 Disc Women's - 2018,Trek,Road Bikes,2018,1549.99,2,2026-04-01 21:38:58.421075,DataLake
+483,Baldwin Bikes,Baldwin,NY,Trek Domane SL 5 Disc Women's - 2018,Trek,Road Bikes,2018,2499.99,21,2026-04-01 21:38:58.421075,DataLake
+484,Baldwin Bikes,Baldwin,NY,Trek Domane SL 7 Women's - 2018,Trek,Road Bikes,2018,4999.99,21,2026-04-01 21:38:58.421075,DataLake
+485,Baldwin Bikes,Baldwin,NY,Trek Domane SLR 6 Disc Women's - 2018,Trek,Road Bikes,2018,5499.99,9,2026-04-01 21:38:58.421075,DataLake
+486,Baldwin Bikes,Baldwin,NY,Trek Domane SLR 9 Disc - 2018,Trek,Road Bikes,2018,11999.99,21,2026-04-01 21:38:58.421075,DataLake
+487,Baldwin Bikes,Baldwin,NY,Trek Domane SL Frameset - 2018,Trek,Road Bikes,2018,6499.99,8,2026-04-01 21:38:58.421075,DataLake
+488,Baldwin Bikes,Baldwin,NY,Trek Domane SL Frameset Women's - 2018,Trek,Road Bikes,2018,6499.99,28,2026-04-01 21:38:58.421075,DataLake
+489,Baldwin Bikes,Baldwin,NY,Trek CrossRip 1 - 2018,Trek,Road Bikes,2018,959.99,0,2026-04-01 21:38:58.421075,DataLake
+490,Baldwin Bikes,Baldwin,NY,Trek Emonda ALR 6 - 2018,Trek,Road Bikes,2018,2299.99,30,2026-04-01 21:38:58.421075,DataLake
+491,Baldwin Bikes,Baldwin,NY,Trek Emonda SLR 6 - 2018,Trek,Road Bikes,2018,4499.99,4,2026-04-01 21:38:58.421075,DataLake
+492,Baldwin Bikes,Baldwin,NY,Surly ECR - 2018,Surly,Road Bikes,2018,1899.0,9,2026-04-01 21:38:58.421075,DataLake
+493,Baldwin Bikes,Baldwin,NY,Trek Emonda SL 6 Disc - 2018,Trek,Road Bikes,2018,2999.99,18,2026-04-01 21:38:58.421075,DataLake
+494,Baldwin Bikes,Baldwin,NY,Surly Pack Rat - 2018,Surly,Road Bikes,2018,1349.0,30,2026-04-01 21:38:58.421075,DataLake
+495,Baldwin Bikes,Baldwin,NY,Surly Straggler 650b - 2018,Surly,Road Bikes,2018,1549.0,9,2026-04-01 21:38:58.421075,DataLake
+496,Baldwin Bikes,Baldwin,NY,Trek 1120 - 2018,Trek,Road Bikes,2018,2499.99,6,2026-04-01 21:38:58.421075,DataLake
+497,Baldwin Bikes,Baldwin,NY,Trek Domane AL 2 Women's - 2018,Trek,Road Bikes,2018,749.99,27,2026-04-01 21:38:58.421075,DataLake
+498,Baldwin Bikes,Baldwin,NY,Surly ECR Frameset - 2018,Surly,Road Bikes,2018,749.99,1,2026-04-01 21:38:58.421075,DataLake
+499,Baldwin Bikes,Baldwin,NY,Surly Straggler - 2018,Surly,Road Bikes,2018,1549.0,29,2026-04-01 21:38:58.421075,DataLake
+500,Baldwin Bikes,Baldwin,NY,Trek Emonda SLR 8 - 2018,Trek,Road Bikes,2018,6499.99,1,2026-04-01 21:38:58.421075,DataLake
+501,Baldwin Bikes,Baldwin,NY,Trek CrossRip 2 - 2018,Trek,Road Bikes,2018,1299.99,2,2026-04-01 21:38:58.421075,DataLake
+502,Baldwin Bikes,Baldwin,NY,Trek Domane SL 6 - 2018,Trek,Road Bikes,2018,3199.99,28,2026-04-01 21:38:58.421075,DataLake
+503,Baldwin Bikes,Baldwin,NY,Trek Domane ALR Disc Frameset - 2018,Trek,Road Bikes,2018,3199.99,16,2026-04-01 21:38:58.421075,DataLake
+504,Baldwin Bikes,Baldwin,NY,Trek Domane ALR Frameset - 2018,Trek,Road Bikes,2018,3199.99,17,2026-04-01 21:38:58.421075,DataLake
+505,Baldwin Bikes,Baldwin,NY,Trek Domane SLR Disc Frameset - 2018,Trek,Road Bikes,2018,3199.99,8,2026-04-01 21:38:58.421075,DataLake
+506,Baldwin Bikes,Baldwin,NY,Trek Domane SLR Frameset - 2018,Trek,Road Bikes,2018,3199.99,0,2026-04-01 21:38:58.421075,DataLake
+507,Baldwin Bikes,Baldwin,NY,Trek Madone 9 Frameset - 2018,Trek,Road Bikes,2018,3199.99,26,2026-04-01 21:38:58.421075,DataLake
+508,Baldwin Bikes,Baldwin,NY,Trek Domane SLR 6 Disc - 2018,Trek,Road Bikes,2018,5499.99,9,2026-04-01 21:38:58.421075,DataLake
+509,Baldwin Bikes,Baldwin,NY,Trek Domane AL 2 - 2018,Trek,Road Bikes,2018,749.99,1,2026-04-01 21:38:58.421075,DataLake
+510,Baldwin Bikes,Baldwin,NY,Trek Domane AL 3 - 2018,Trek,Road Bikes,2018,919.99,16,2026-04-01 21:38:58.421075,DataLake
+511,Baldwin Bikes,Baldwin,NY,Trek Domane AL 3 Women's - 2018,Trek,Road Bikes,2018,919.99,3,2026-04-01 21:38:58.421075,DataLake
+512,Baldwin Bikes,Baldwin,NY,Trek Domane SL 5 - 2018,Trek,Road Bikes,2018,2199.99,29,2026-04-01 21:38:58.421075,DataLake
+513,Baldwin Bikes,Baldwin,NY,Trek Domane SL 5 Disc - 2018,Trek,Road Bikes,2018,2499.99,21,2026-04-01 21:38:58.421075,DataLake
+514,Baldwin Bikes,Baldwin,NY,Trek Domane SL 5 Women's - 2018,Trek,Road Bikes,2018,2199.99,26,2026-04-01 21:38:58.421075,DataLake
+515,Baldwin Bikes,Baldwin,NY,Trek Domane SL 6 Disc - 2018,Trek,Road Bikes,2018,3499.99,0,2026-04-01 21:38:58.421075,DataLake
+516,Baldwin Bikes,Baldwin,NY,Trek Conduit+ - 2018,Trek,Electric Bikes,2018,2799.99,4,2026-04-01 21:38:58.421075,DataLake
+517,Baldwin Bikes,Baldwin,NY,Trek CrossRip+ - 2018,Trek,Electric Bikes,2018,4499.99,16,2026-04-01 21:38:58.421075,DataLake
+518,Baldwin Bikes,Baldwin,NY,Trek Neko+ - 2018,Trek,Electric Bikes,2018,2799.99,10,2026-04-01 21:38:58.421075,DataLake
+519,Baldwin Bikes,Baldwin,NY,Trek XM700+ Lowstep - 2018,Trek,Electric Bikes,2018,3499.99,27,2026-04-01 21:38:58.421075,DataLake
+520,Baldwin Bikes,Baldwin,NY,Trek XM700+ Lowstep - 2018,Trek,Electric Bikes,2018,3499.99,27,2026-04-01 21:38:58.421075,DataLake
+521,Baldwin Bikes,Baldwin,NY,Trek Lift+ Lowstep - 2018,Trek,Electric Bikes,2018,2799.99,13,2026-04-01 21:38:58.421075,DataLake
+522,Baldwin Bikes,Baldwin,NY,Trek Lift+ Lowstep - 2018,Trek,Electric Bikes,2018,2799.99,13,2026-04-01 21:38:58.421075,DataLake
+523,Baldwin Bikes,Baldwin,NY,Trek Dual Sport+ - 2018,Trek,Electric Bikes,2018,2799.99,18,2026-04-01 21:38:58.421075,DataLake
+524,Baldwin Bikes,Baldwin,NY,Trek Dual Sport+ - 2018,Trek,Electric Bikes,2018,2799.99,18,2026-04-01 21:38:58.421075,DataLake
+525,Baldwin Bikes,Baldwin,NY,Electra Loft Go! 8i - 2018,Electra,Electric Bikes,2018,2799.99,15,2026-04-01 21:38:58.421075,DataLake
+526,Baldwin Bikes,Baldwin,NY,Electra Townie Go! 8i - 2017/2018,Electra,Electric Bikes,2018,2599.99,0,2026-04-01 21:38:58.421075,DataLake
+527,Baldwin Bikes,Baldwin,NY,Trek Lift+ - 2018,Trek,Electric Bikes,2018,2799.99,21,2026-04-01 21:38:58.421075,DataLake
+528,Baldwin Bikes,Baldwin,NY,Trek XM700+ - 2018,Trek,Electric Bikes,2018,3499.99,15,2026-04-01 21:38:58.421075,DataLake
+529,Baldwin Bikes,Baldwin,NY,Electra Townie Go! 8i Ladies' - 2018,Electra,Electric Bikes,2018,2599.99,19,2026-04-01 21:38:58.421075,DataLake
+530,Baldwin Bikes,Baldwin,NY,Trek Verve+ - 2018,Trek,Electric Bikes,2018,2299.99,28,2026-04-01 21:38:58.421075,DataLake
+531,Baldwin Bikes,Baldwin,NY,Trek Verve+ Lowstep - 2018,Trek,Electric Bikes,2018,2299.99,10,2026-04-01 21:38:58.421075,DataLake
+532,Baldwin Bikes,Baldwin,NY,Electra Townie Commute Go! - 2018,Electra,Electric Bikes,2018,2999.99,0,2026-04-01 21:38:58.421075,DataLake
+533,Baldwin Bikes,Baldwin,NY,Electra Townie Commute Go! Ladies' - 2018,Electra,Electric Bikes,2018,2999.99,13,2026-04-01 21:38:58.421075,DataLake
+534,Baldwin Bikes,Baldwin,NY,Trek Powerfly 5 - 2018,Trek,Electric Bikes,2018,3499.99,11,2026-04-01 21:38:58.421075,DataLake
+535,Baldwin Bikes,Baldwin,NY,Trek Powerfly 5 FS - 2018,Trek,Electric Bikes,2018,4499.99,24,2026-04-01 21:38:58.421075,DataLake
+536,Baldwin Bikes,Baldwin,NY,Trek Powerfly 5 Women's - 2018,Trek,Electric Bikes,2018,3499.99,1,2026-04-01 21:38:58.421075,DataLake
+537,Baldwin Bikes,Baldwin,NY,Trek Powerfly 7 FS - 2018,Trek,Electric Bikes,2018,4999.99,7,2026-04-01 21:38:58.421075,DataLake
+538,Baldwin Bikes,Baldwin,NY,Trek Super Commuter+ 7 - 2018,Trek,Electric Bikes,2018,3599.99,25,2026-04-01 21:38:58.421075,DataLake
+539,Baldwin Bikes,Baldwin,NY,Trek Super Commuter+ 8S - 2018,Trek,Electric Bikes,2018,4999.99,13,2026-04-01 21:38:58.421075,DataLake
+540,Baldwin Bikes,Baldwin,NY,Trek Boone 5 Disc - 2018,Trek,Cyclocross Bicycles,2018,3299.99,9,2026-04-01 21:38:58.421075,DataLake
+541,Baldwin Bikes,Baldwin,NY,Trek Boone 7 Disc - 2018,Trek,Cyclocross Bicycles,2018,3999.99,8,2026-04-01 21:38:58.421075,DataLake
+542,Baldwin Bikes,Baldwin,NY,Trek Crockett 5 Disc - 2018,Trek,Cyclocross Bicycles,2018,1799.99,12,2026-04-01 21:38:58.421075,DataLake
+543,Baldwin Bikes,Baldwin,NY,Trek Crockett 7 Disc - 2018,Trek,Cyclocross Bicycles,2018,2999.99,11,2026-04-01 21:38:58.421075,DataLake
+544,Baldwin Bikes,Baldwin,NY,Surly Straggler - 2018,Surly,Cyclocross Bicycles,2018,1549.0,10,2026-04-01 21:38:58.421075,DataLake
+545,Baldwin Bikes,Baldwin,NY,Surly Straggler 650b - 2018,Surly,Cyclocross Bicycles,2018,1549.0,4,2026-04-01 21:38:58.421075,DataLake
+546,Baldwin Bikes,Baldwin,NY,Electra Townie Original 21D - 2018,Electra,Cruisers Bicycles,2018,559.99,22,2026-04-01 21:38:58.421075,DataLake
+547,Baldwin Bikes,Baldwin,NY,Electra Cruiser 1 - 2016/2017/2018,Electra,Cruisers Bicycles,2018,269.99,10,2026-04-01 21:38:58.421075,DataLake
+548,Baldwin Bikes,Baldwin,NY,Electra Tiger Shark 3i - 2018,Electra,Cruisers Bicycles,2018,899.99,7,2026-04-01 21:38:58.421075,DataLake
+549,Baldwin Bikes,Baldwin,NY,Electra Queen of Hearts 3i - 2018,Electra,Cruisers Bicycles,2018,749.99,11,2026-04-01 21:38:58.421075,DataLake
+550,Baldwin Bikes,Baldwin,NY,Electra Super Moto 8i - 2018,Electra,Cruisers Bicycles,2018,899.99,19,2026-04-01 21:38:58.421075,DataLake
+551,Baldwin Bikes,Baldwin,NY,Electra Straight 8 3i - 2018,Electra,Cruisers Bicycles,2018,909.99,22,2026-04-01 21:38:58.421075,DataLake
+552,Baldwin Bikes,Baldwin,NY,Electra Cruiser 7D - 2016/2017/2018,Electra,Cruisers Bicycles,2018,319.99,26,2026-04-01 21:38:58.421075,DataLake
+553,Baldwin Bikes,Baldwin,NY,Electra Moto 3i - 2018,Electra,Cruisers Bicycles,2018,639.99,16,2026-04-01 21:38:58.421075,DataLake
+554,Baldwin Bikes,Baldwin,NY,Electra Cruiser 1 Ladies' - 2018,Electra,Cruisers Bicycles,2018,269.99,6,2026-04-01 21:38:58.421075,DataLake
+555,Baldwin Bikes,Baldwin,NY,Electra Cruiser 7D Ladies' - 2016/2018,Electra,Cruisers Bicycles,2018,319.99,12,2026-04-01 21:38:58.421075,DataLake
+556,Baldwin Bikes,Baldwin,NY,Electra Cruiser 1 Tall - 2016/2018,Electra,Cruisers Bicycles,2018,269.99,30,2026-04-01 21:38:58.421075,DataLake
+557,Baldwin Bikes,Baldwin,NY,Electra Cruiser Lux 3i - 2018,Electra,Cruisers Bicycles,2018,529.99,7,2026-04-01 21:38:58.421075,DataLake
+558,Baldwin Bikes,Baldwin,NY,Electra Cruiser Lux 7D - 2018,Electra,Cruisers Bicycles,2018,479.99,4,2026-04-01 21:38:58.421075,DataLake
+559,Baldwin Bikes,Baldwin,NY,Electra Delivery 3i - 2016/2017/2018,Electra,Cruisers Bicycles,2018,959.99,11,2026-04-01 21:38:58.421075,DataLake
+560,Baldwin Bikes,Baldwin,NY,Electra Townie Original 21D EQ - 2017/2018,Electra,Cruisers Bicycles,2018,679.99,5,2026-04-01 21:38:58.421075,DataLake
+561,Baldwin Bikes,Baldwin,NY,Electra Cruiser 7D (24-Inch) Ladies' - 2016/2018,Electra,Cruisers Bicycles,2018,319.99,12,2026-04-01 21:38:58.421075,DataLake
+562,Baldwin Bikes,Baldwin,NY,Electra Cruiser 7D Tall - 2016/2018,Electra,Cruisers Bicycles,2018,319.99,7,2026-04-01 21:38:58.421075,DataLake
+563,Baldwin Bikes,Baldwin,NY,Electra Cruiser Lux 1 - 2016/2018,Electra,Cruisers Bicycles,2018,429.99,29,2026-04-01 21:38:58.421075,DataLake
+564,Baldwin Bikes,Baldwin,NY,Electra Cruiser Lux 1 Ladies' - 2018,Electra,Cruisers Bicycles,2018,429.99,25,2026-04-01 21:38:58.421075,DataLake
+565,Baldwin Bikes,Baldwin,NY,Electra Cruiser Lux 3i Ladies' - 2018,Electra,Cruisers Bicycles,2018,529.99,8,2026-04-01 21:38:58.421075,DataLake
+566,Baldwin Bikes,Baldwin,NY,Electra Cruiser Lux 7D Ladies' - 2018,Electra,Cruisers Bicycles,2018,479.99,11,2026-04-01 21:38:58.421075,DataLake
+567,Baldwin Bikes,Baldwin,NY,Electra Cruiser Lux Fat Tire 7D - 2018,Electra,Cruisers Bicycles,2018,639.99,25,2026-04-01 21:38:58.421075,DataLake
+568,Baldwin Bikes,Baldwin,NY,Electra Daydreamer 3i Ladies' - 2018,Electra,Cruisers Bicycles,2018,899.99,12,2026-04-01 21:38:58.421075,DataLake
+569,Baldwin Bikes,Baldwin,NY,Electra Koa 3i Ladies' - 2018,Electra,Cruisers Bicycles,2018,899.99,4,2026-04-01 21:38:58.421075,DataLake
+570,Baldwin Bikes,Baldwin,NY,Electra Morningstar 3i Ladies' - 2018,Electra,Cruisers Bicycles,2018,749.99,7,2026-04-01 21:38:58.421075,DataLake
+571,Baldwin Bikes,Baldwin,NY,Electra Relic 3i - 2018,Electra,Cruisers Bicycles,2018,849.99,30,2026-04-01 21:38:58.421075,DataLake
+572,Baldwin Bikes,Baldwin,NY,Electra Townie Balloon 8D EQ - 2016/2017/2018,Electra,Cruisers Bicycles,2018,749.99,6,2026-04-01 21:38:58.421075,DataLake
+573,Baldwin Bikes,Baldwin,NY,Electra Townie Balloon 8D EQ Ladies' - 2016/2017/2018,Electra,Cruisers Bicycles,2018,749.99,17,2026-04-01 21:38:58.421075,DataLake
+574,Baldwin Bikes,Baldwin,NY,Electra Townie Commute 27D Ladies - 2018,Electra,Cruisers Bicycles,2018,899.99,19,2026-04-01 21:38:58.421075,DataLake
+575,Baldwin Bikes,Baldwin,NY,Electra Townie Commute 8D - 2018,Electra,Cruisers Bicycles,2018,749.99,24,2026-04-01 21:38:58.421075,DataLake
+576,Baldwin Bikes,Baldwin,NY,Electra Townie Commute 8D Ladies' - 2018,Electra,Cruisers Bicycles,2018,699.99,2,2026-04-01 21:38:58.421075,DataLake
+577,Baldwin Bikes,Baldwin,NY,Electra Townie Original 21D EQ Ladies' - 2018,Electra,Cruisers Bicycles,2018,679.99,18,2026-04-01 21:38:58.421075,DataLake
+578,Baldwin Bikes,Baldwin,NY,Electra Townie Original 21D Ladies' - 2018,Electra,Cruisers Bicycles,2018,559.99,1,2026-04-01 21:38:58.421075,DataLake
+579,Baldwin Bikes,Baldwin,NY,Electra Townie Original 3i EQ - 2017/2018,Electra,Cruisers Bicycles,2018,659.99,18,2026-04-01 21:38:58.421075,DataLake
+580,Baldwin Bikes,Baldwin,NY,Electra Townie Original 3i EQ Ladies' - 2018,Electra,Cruisers Bicycles,2018,639.99,10,2026-04-01 21:38:58.421075,DataLake
+581,Baldwin Bikes,Baldwin,NY,Electra Townie Original 7D EQ - 2018,Electra,Cruisers Bicycles,2018,599.99,16,2026-04-01 21:38:58.421075,DataLake
+582,Baldwin Bikes,Baldwin,NY,Electra Townie Original 7D EQ Ladies' - 2017/2018,Electra,Cruisers Bicycles,2018,599.99,26,2026-04-01 21:38:58.421075,DataLake
+583,Baldwin Bikes,Baldwin,NY,Electra White Water 3i - 2018,Electra,Cruisers Bicycles,2018,749.99,10,2026-04-01 21:38:58.421075,DataLake
+584,Baldwin Bikes,Baldwin,NY,Electra Townie Go! 8i - 2017/2018,Electra,Cruisers Bicycles,2018,2599.99,23,2026-04-01 21:38:58.421075,DataLake
+585,Baldwin Bikes,Baldwin,NY,Electra Townie Commute Go! - 2018,Electra,Cruisers Bicycles,2018,2999.99,0,2026-04-01 21:38:58.421075,DataLake
+586,Baldwin Bikes,Baldwin,NY,Electra Townie Commute Go! Ladies' - 2018,Electra,Cruisers Bicycles,2018,2999.99,20,2026-04-01 21:38:58.421075,DataLake
+587,Baldwin Bikes,Baldwin,NY,Electra Townie Go! 8i Ladies' - 2018,Electra,Cruisers Bicycles,2018,2599.99,29,2026-04-01 21:38:58.421075,DataLake
+588,Baldwin Bikes,Baldwin,NY,Electra Townie Balloon 3i EQ - 2017/2018,Electra,Cruisers Bicycles,2018,749.99,7,2026-04-01 21:38:58.421075,DataLake
+589,Baldwin Bikes,Baldwin,NY,Electra Townie Balloon 7i EQ Ladies' - 2017/2018,Electra,Cruisers Bicycles,2018,899.99,12,2026-04-01 21:38:58.421075,DataLake
+590,Baldwin Bikes,Baldwin,NY,Electra Townie Commute 27D - 2018,Electra,Cruisers Bicycles,2018,899.99,8,2026-04-01 21:38:58.421075,DataLake
+591,Baldwin Bikes,Baldwin,NY,Electra Amsterdam Fashion 3i Ladies' - 2017/2018,Electra,Cruisers Bicycles,2018,899.99,5,2026-04-01 21:38:58.421075,DataLake
+592,Baldwin Bikes,Baldwin,NY,Electra Amsterdam Royal 8i - 2017/2018,Electra,Cruisers Bicycles,2018,1259.9,10,2026-04-01 21:38:58.421075,DataLake
+593,Baldwin Bikes,Baldwin,NY,Electra Amsterdam Royal 8i Ladies - 2018,Electra,Cruisers Bicycles,2018,1199.99,16,2026-04-01 21:38:58.421075,DataLake
+594,Baldwin Bikes,Baldwin,NY,Electra Townie Balloon 3i EQ Ladies' - 2018,Electra,Cruisers Bicycles,2018,799.99,20,2026-04-01 21:38:58.421075,DataLake
+595,Baldwin Bikes,Baldwin,NY,Electra Townie Balloon 7i EQ - 2018,Electra,Cruisers Bicycles,2018,899.99,4,2026-04-01 21:38:58.421075,DataLake
+596,Baldwin Bikes,Baldwin,NY,Trek MT 201 - 2018,Trek,Children Bicycles,2018,249.99,8,2026-04-01 21:38:58.421075,DataLake
+597,Baldwin Bikes,Baldwin,NY,Strider Classic 12 Balance Bike - 2018,Strider,Children Bicycles,2018,89.99,4,2026-04-01 21:38:58.421075,DataLake
+598,Baldwin Bikes,Baldwin,NY,Strider Sport 16 - 2018,Strider,Children Bicycles,2018,249.99,13,2026-04-01 21:38:58.421075,DataLake
+599,Baldwin Bikes,Baldwin,NY,Strider Strider 20 Sport - 2018,Strider,Children Bicycles,2018,289.99,4,2026-04-01 21:38:58.421075,DataLake
+600,Baldwin Bikes,Baldwin,NY,Trek Superfly 20 - 2018,Trek,Children Bicycles,2018,399.99,18,2026-04-01 21:38:58.421075,DataLake
+601,Baldwin Bikes,Baldwin,NY,Trek Precaliber 12 Girl's - 2018,Trek,Children Bicycles,2018,199.99,21,2026-04-01 21:38:58.421075,DataLake
+602,Baldwin Bikes,Baldwin,NY,Trek Kickster - 2018,Trek,Children Bicycles,2018,159.99,3,2026-04-01 21:38:58.421075,DataLake
+603,Baldwin Bikes,Baldwin,NY,Trek Precaliber 12 Boy's - 2018,Trek,Children Bicycles,2018,199.99,4,2026-04-01 21:38:58.421075,DataLake
+604,Baldwin Bikes,Baldwin,NY,Trek Precaliber 16 Boy's - 2018,Trek,Children Bicycles,2018,209.99,15,2026-04-01 21:38:58.421075,DataLake
+605,Baldwin Bikes,Baldwin,NY,Trek Precaliber 16 Girl's - 2018,Trek,Children Bicycles,2018,209.99,26,2026-04-01 21:38:58.421075,DataLake
+606,Baldwin Bikes,Baldwin,NY,Trek Precaliber 20 6-speed Boy's - 2018,Trek,Children Bicycles,2018,289.99,1,2026-04-01 21:38:58.421075,DataLake
+607,Baldwin Bikes,Baldwin,NY,Trek Precaliber 20 6-speed Girl's - 2018,Trek,Children Bicycles,2018,289.99,28,2026-04-01 21:38:58.421075,DataLake
+608,Baldwin Bikes,Baldwin,NY,Trek Precaliber 20 Boy's - 2018,Trek,Children Bicycles,2018,229.99,15,2026-04-01 21:38:58.421075,DataLake
+609,Baldwin Bikes,Baldwin,NY,Trek Precaliber 20 Girl's - 2018,Trek,Children Bicycles,2018,229.99,3,2026-04-01 21:38:58.421075,DataLake
+610,Baldwin Bikes,Baldwin,NY,Trek Precaliber 24 (7-Speed) - Boys - 2018,Trek,Children Bicycles,2018,319.99,9,2026-04-01 21:38:58.421075,DataLake
+611,Baldwin Bikes,Baldwin,NY,Trek Precaliber 24 21-speed Boy's - 2018,Trek,Children Bicycles,2018,369.99,4,2026-04-01 21:38:58.421075,DataLake
+612,Baldwin Bikes,Baldwin,NY,Trek Precaliber 24 21-speed Girl's - 2018,Trek,Children Bicycles,2018,369.99,8,2026-04-01 21:38:58.421075,DataLake
+613,Baldwin Bikes,Baldwin,NY,Trek Precaliber 24 7-speed Girl's - 2018,Trek,Children Bicycles,2018,319.99,18,2026-04-01 21:38:58.421075,DataLake
+614,Baldwin Bikes,Baldwin,NY,Trek Superfly 24 - 2017/2018,Trek,Children Bicycles,2018,489.99,11,2026-04-01 21:38:58.421075,DataLake
+615,Baldwin Bikes,Baldwin,NY,Electra Cruiser 7D (24-Inch) Ladies' - 2016/2018,Electra,Children Bicycles,2018,319.99,3,2026-04-01 21:38:58.421075,DataLake
+616,Baldwin Bikes,Baldwin,NY,Electra Cyclosaurus 1 (16-inch) - Boy's - 2018,Electra,Children Bicycles,2018,279.99,8,2026-04-01 21:38:58.421075,DataLake
+617,Baldwin Bikes,Baldwin,NY,Electra Heartchya 1 (20-inch) - Girl's - 2018,Electra,Children Bicycles,2018,319.99,28,2026-04-01 21:38:58.421075,DataLake
+618,Baldwin Bikes,Baldwin,NY,Electra Savannah 1 (20-inch) - Girl's - 2018,Electra,Children Bicycles,2018,319.99,6,2026-04-01 21:38:58.421075,DataLake
+619,Baldwin Bikes,Baldwin,NY,Electra Soft Serve 1 (16-inch) - Girl's - 2018,Electra,Children Bicycles,2018,279.99,22,2026-04-01 21:38:58.421075,DataLake
+620,Baldwin Bikes,Baldwin,NY,"Electra Starship 1 16"" - 2018",Electra,Children Bicycles,2018,279.99,3,2026-04-01 21:38:58.421075,DataLake
+621,Baldwin Bikes,Baldwin,NY,Electra Straight 8 1 (16-inch) - Boy's - 2018,Electra,Children Bicycles,2018,279.99,15,2026-04-01 21:38:58.421075,DataLake
+622,Baldwin Bikes,Baldwin,NY,Electra Straight 8 1 (20-inch) - Boy's - 2018,Electra,Children Bicycles,2018,389.99,13,2026-04-01 21:38:58.421075,DataLake
+623,Baldwin Bikes,Baldwin,NY,"Electra Superbolt 1 20"" - 2018",Electra,Children Bicycles,2018,319.99,5,2026-04-01 21:38:58.421075,DataLake
+624,Baldwin Bikes,Baldwin,NY,"Electra Superbolt 3i 20"" - 2018",Electra,Children Bicycles,2018,369.99,29,2026-04-01 21:38:58.421075,DataLake
+625,Baldwin Bikes,Baldwin,NY,Electra Sweet Ride 1 (20-inch) - Girl's - 2018,Electra,Children Bicycles,2018,319.99,22,2026-04-01 21:38:58.421075,DataLake
+626,Baldwin Bikes,Baldwin,NY,Electra Sweet Ride 1 (20-inch) - Girl's - 2018,Electra,Children Bicycles,2018,319.99,22,2026-04-01 21:38:58.421075,DataLake
+627,Baldwin Bikes,Baldwin,NY,Electra Sweet Ride 3i (20-inch) - Girls' - 2018,Electra,Children Bicycles,2018,369.99,22,2026-04-01 21:38:58.421075,DataLake
+628,Baldwin Bikes,Baldwin,NY,Electra Sweet Ride 3i (20-inch) - Girls' - 2018,Electra,Children Bicycles,2018,369.99,22,2026-04-01 21:38:58.421075,DataLake
+629,Baldwin Bikes,Baldwin,NY,Electra Tiger Shark 1 (20-inch) - Boys' - 2018,Electra,Children Bicycles,2018,319.99,12,2026-04-01 21:38:58.421075,DataLake
+630,Baldwin Bikes,Baldwin,NY,Electra Tiger Shark 1 (20-inch) - Boys' - 2018,Electra,Children Bicycles,2018,319.99,12,2026-04-01 21:38:58.421075,DataLake
+631,Baldwin Bikes,Baldwin,NY,Electra Tiger Shark 3i (20-inch) - Boys' - 2018,Electra,Children Bicycles,2018,369.99,7,2026-04-01 21:38:58.421075,DataLake
+632,Baldwin Bikes,Baldwin,NY,Electra Tiger Shark 3i (20-inch) - Boys' - 2018,Electra,Children Bicycles,2018,369.99,7,2026-04-01 21:38:58.421075,DataLake
+633,Baldwin Bikes,Baldwin,NY,"Electra Treasure 1 20"" - 2018",Electra,Children Bicycles,2018,319.99,15,2026-04-01 21:38:58.421075,DataLake
+634,Baldwin Bikes,Baldwin,NY,"Electra Treasure 3i 20"" - 2018",Electra,Children Bicycles,2018,369.99,8,2026-04-01 21:38:58.421075,DataLake
+635,Baldwin Bikes,Baldwin,NY,"Electra Under-The-Sea 1 16"" - 2018",Electra,Children Bicycles,2018,279.99,7,2026-04-01 21:38:58.421075,DataLake
+636,Baldwin Bikes,Baldwin,NY,Electra Water Lily 1 (16-inch) - Girl's - 2018,Electra,Children Bicycles,2018,279.99,27,2026-04-01 21:38:58.421075,DataLake
+637,Baldwin Bikes,Baldwin,NY,Electra Townie Original 21D - 2018,Electra,Comfort Bicycles,2018,559.99,0,2026-04-01 21:38:58.421075,DataLake
+638,Baldwin Bikes,Baldwin,NY,Electra Townie Balloon 3i EQ Ladies' - 2018,Electra,Comfort Bicycles,2018,799.99,13,2026-04-01 21:38:58.421075,DataLake
+639,Baldwin Bikes,Baldwin,NY,Electra Townie Balloon 7i EQ - 2018,Electra,Comfort Bicycles,2018,899.99,26,2026-04-01 21:38:58.421075,DataLake
+640,Baldwin Bikes,Baldwin,NY,Electra Townie Original 1 - 2018,Electra,Comfort Bicycles,2018,449.99,6,2026-04-01 21:38:58.421075,DataLake
+641,Baldwin Bikes,Baldwin,NY,Electra Townie Go! 8i - 2017/2018,Electra,Comfort Bicycles,2018,2599.99,23,2026-04-01 21:38:58.421075,DataLake
+642,Baldwin Bikes,Baldwin,NY,Electra Townie Original 21D EQ - 2017/2018,Electra,Comfort Bicycles,2018,679.99,6,2026-04-01 21:38:58.421075,DataLake
+643,Baldwin Bikes,Baldwin,NY,Electra Townie Balloon 3i EQ - 2017/2018,Electra,Comfort Bicycles,2018,749.99,21,2026-04-01 21:38:58.421075,DataLake
+644,Baldwin Bikes,Baldwin,NY,Electra Townie Balloon 7i EQ Ladies' - 2017/2018,Electra,Comfort Bicycles,2018,899.99,17,2026-04-01 21:38:58.421075,DataLake
+645,Baldwin Bikes,Baldwin,NY,Electra Townie Balloon 8D EQ - 2016/2017/2018,Electra,Comfort Bicycles,2018,749.99,18,2026-04-01 21:38:58.421075,DataLake
+646,Baldwin Bikes,Baldwin,NY,Electra Townie Balloon 8D EQ Ladies' - 2016/2017/2018,Electra,Comfort Bicycles,2018,749.99,15,2026-04-01 21:38:58.421075,DataLake
+647,Baldwin Bikes,Baldwin,NY,Electra Townie Commute 27D - 2018,Electra,Comfort Bicycles,2018,899.99,9,2026-04-01 21:38:58.421075,DataLake
+648,Baldwin Bikes,Baldwin,NY,Electra Townie Commute 27D Ladies - 2018,Electra,Comfort Bicycles,2018,899.99,5,2026-04-01 21:38:58.421075,DataLake
+649,Baldwin Bikes,Baldwin,NY,Electra Townie Commute 8D - 2018,Electra,Comfort Bicycles,2018,749.99,27,2026-04-01 21:38:58.421075,DataLake
+650,Baldwin Bikes,Baldwin,NY,Electra Townie Commute 8D Ladies' - 2018,Electra,Comfort Bicycles,2018,699.99,2,2026-04-01 21:38:58.421075,DataLake
+651,Baldwin Bikes,Baldwin,NY,Electra Townie Original 1 Ladies' - 2018,Electra,Comfort Bicycles,2018,449.99,24,2026-04-01 21:38:58.421075,DataLake
+652,Rowlett Bikes,Rowlett,TX,Trek 820 - 2016,Trek,Mountain Bikes,2016,379.99,14,2026-04-01 21:38:58.421075,DataLake
+653,Rowlett Bikes,Rowlett,TX,Ritchey Timberwolf Frameset - 2016,Ritchey,Mountain Bikes,2016,749.99,24,2026-04-01 21:38:58.421075,DataLake
+654,Rowlett Bikes,Rowlett,TX,Surly Wednesday Frameset - 2016,Surly,Mountain Bikes,2016,999.99,0,2026-04-01 21:38:58.421075,DataLake
+655,Rowlett Bikes,Rowlett,TX,Trek Fuel EX 8 29 - 2016,Trek,Mountain Bikes,2016,2899.99,11,2026-04-01 21:38:58.421075,DataLake
+656,Rowlett Bikes,Rowlett,TX,Heller Shagamaw Frame - 2016,Heller,Mountain Bikes,2016,1320.99,3,2026-04-01 21:38:58.421075,DataLake
+657,Rowlett Bikes,Rowlett,TX,Surly Ice Cream Truck Frameset - 2016,Surly,Mountain Bikes,2016,469.99,27,2026-04-01 21:38:58.421075,DataLake
+658,Rowlett Bikes,Rowlett,TX,Trek Slash 8 27.5 - 2016,Trek,Mountain Bikes,2016,3999.99,12,2026-04-01 21:38:58.421075,DataLake
+659,Rowlett Bikes,Rowlett,TX,Trek Remedy 29 Carbon Frameset - 2016,Trek,Mountain Bikes,2016,1799.99,12,2026-04-01 21:38:58.421075,DataLake
+660,Rowlett Bikes,Rowlett,TX,Trek Conduit+ - 2016,Trek,Electric Bikes,2016,2999.99,23,2026-04-01 21:38:58.421075,DataLake
+661,Rowlett Bikes,Rowlett,TX,Surly Straggler - 2016,Surly,Cyclocross Bicycles,2016,1549.0,21,2026-04-01 21:38:58.421075,DataLake
+662,Rowlett Bikes,Rowlett,TX,Surly Straggler 650b - 2016,Surly,Cyclocross Bicycles,2016,1680.99,30,2026-04-01 21:38:58.421075,DataLake
+663,Rowlett Bikes,Rowlett,TX,Electra Townie Original 21D - 2016,Electra,Cruisers Bicycles,2016,549.99,30,2026-04-01 21:38:58.421075,DataLake
+664,Rowlett Bikes,Rowlett,TX,Electra Townie Original 21D - 2016,Electra,Cruisers Bicycles,2016,549.99,30,2026-04-01 21:38:58.421075,DataLake
+665,Rowlett Bikes,Rowlett,TX,Electra Cruiser 1 (24-Inch) - 2016,Electra,Cruisers Bicycles,2016,269.99,19,2026-04-01 21:38:58.421075,DataLake
+666,Rowlett Bikes,Rowlett,TX,Electra Cruiser 1 (24-Inch) - 2016,Electra,Cruisers Bicycles,2016,269.99,19,2026-04-01 21:38:58.421075,DataLake
+667,Rowlett Bikes,Rowlett,TX,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,Electra,Cruisers Bicycles,2016,269.99,4,2026-04-01 21:38:58.421075,DataLake
+668,Rowlett Bikes,Rowlett,TX,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,Electra,Cruisers Bicycles,2016,269.99,4,2026-04-01 21:38:58.421075,DataLake
+669,Rowlett Bikes,Rowlett,TX,Electra Moto 1 - 2016,Electra,Cruisers Bicycles,2016,529.99,22,2026-04-01 21:38:58.421075,DataLake
+670,Rowlett Bikes,Rowlett,TX,Electra Townie Original 7D EQ - 2016,Electra,Cruisers Bicycles,2016,599.99,19,2026-04-01 21:38:58.421075,DataLake
+671,Rowlett Bikes,Rowlett,TX,Pure Cycles Vine 8-Speed - 2016,Pure Cycles,Cruisers Bicycles,2016,429.0,22,2026-04-01 21:38:58.421075,DataLake
+672,Rowlett Bikes,Rowlett,TX,Pure Cycles Western 3-Speed - Women's - 2015/2016,Pure Cycles,Cruisers Bicycles,2016,449.0,5,2026-04-01 21:38:58.421075,DataLake
+673,Rowlett Bikes,Rowlett,TX,Pure Cycles William 3-Speed - 2016,Pure Cycles,Cruisers Bicycles,2016,449.0,24,2026-04-01 21:38:58.421075,DataLake
+674,Rowlett Bikes,Rowlett,TX,Electra Townie Original 7D EQ - Women's - 2016,Electra,Cruisers Bicycles,2016,599.99,19,2026-04-01 21:38:58.421075,DataLake
+675,Rowlett Bikes,Rowlett,TX,Electra Cruiser 1 (24-Inch) - 2016,Electra,Children Bicycles,2016,269.99,8,2026-04-01 21:38:58.421075,DataLake
+676,Rowlett Bikes,Rowlett,TX,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,Electra,Children Bicycles,2016,269.99,20,2026-04-01 21:38:58.421075,DataLake
+677,Rowlett Bikes,Rowlett,TX,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,Electra,Children Bicycles,2016,299.99,8,2026-04-01 21:38:58.421075,DataLake
+678,Rowlett Bikes,Rowlett,TX,Electra Townie Original 21D - 2016,Electra,Comfort Bicycles,2016,549.99,18,2026-04-01 21:38:58.421075,DataLake
+679,Rowlett Bikes,Rowlett,TX,Electra Townie Original 7D - 2015/2016,Electra,Comfort Bicycles,2016,499.99,15,2026-04-01 21:38:58.421075,DataLake
+680,Rowlett Bikes,Rowlett,TX,Electra Townie Original 7D EQ - 2016,Electra,Comfort Bicycles,2016,599.99,27,2026-04-01 21:38:58.421075,DataLake
+681,Rowlett Bikes,Rowlett,TX,Surly Big Dummy Frameset - 2017,Surly,Mountain Bikes,2017,999.99,21,2026-04-01 21:38:58.421075,DataLake
+682,Rowlett Bikes,Rowlett,TX,Surly Karate Monkey 27.5+ Frameset - 2017,Surly,Mountain Bikes,2017,2499.99,20,2026-04-01 21:38:58.421075,DataLake
+683,Rowlett Bikes,Rowlett,TX,Trek X-Caliber 8 - 2017,Trek,Mountain Bikes,2017,999.99,11,2026-04-01 21:38:58.421075,DataLake
+684,Rowlett Bikes,Rowlett,TX,Surly Ice Cream Truck Frameset - 2017,Surly,Mountain Bikes,2017,999.99,23,2026-04-01 21:38:58.421075,DataLake
+685,Rowlett Bikes,Rowlett,TX,Surly Wednesday - 2017,Surly,Mountain Bikes,2017,1632.99,10,2026-04-01 21:38:58.421075,DataLake
+686,Rowlett Bikes,Rowlett,TX,Trek Farley Alloy Frameset - 2017,Trek,Mountain Bikes,2017,469.99,14,2026-04-01 21:38:58.421075,DataLake
+687,Rowlett Bikes,Rowlett,TX,Surly Wednesday Frameset - 2017,Surly,Mountain Bikes,2017,469.99,14,2026-04-01 21:38:58.421075,DataLake
+688,Rowlett Bikes,Rowlett,TX,Trek Session DH 27.5 Carbon Frameset - 2017,Trek,Mountain Bikes,2017,469.99,6,2026-04-01 21:38:58.421075,DataLake
+689,Rowlett Bikes,Rowlett,TX,Sun Bicycles Spider 3i - 2017,Sun Bicycles,Mountain Bikes,2017,832.99,3,2026-04-01 21:38:58.421075,DataLake
+690,Rowlett Bikes,Rowlett,TX,Surly Troll Frameset - 2017,Surly,Mountain Bikes,2017,832.99,28,2026-04-01 21:38:58.421075,DataLake
+691,Rowlett Bikes,Rowlett,TX,Haro Flightline One ST - 2017,Haro,Mountain Bikes,2017,379.99,30,2026-04-01 21:38:58.421075,DataLake
+692,Rowlett Bikes,Rowlett,TX,Haro Flightline Two 26 Plus - 2017,Haro,Mountain Bikes,2017,549.99,23,2026-04-01 21:38:58.421075,DataLake
+693,Rowlett Bikes,Rowlett,TX,Trek Stache 5 - 2017,Trek,Mountain Bikes,2017,1499.99,22,2026-04-01 21:38:58.421075,DataLake
+694,Rowlett Bikes,Rowlett,TX,Trek Fuel EX 9.8 29 - 2017,Trek,Mountain Bikes,2017,4999.99,2,2026-04-01 21:38:58.421075,DataLake
+695,Rowlett Bikes,Rowlett,TX,Haro Shift R3 - 2017,Haro,Mountain Bikes,2017,1469.99,25,2026-04-01 21:38:58.421075,DataLake
+696,Rowlett Bikes,Rowlett,TX,Trek Fuel EX 5 27.5 Plus - 2017,Trek,Mountain Bikes,2017,2299.99,9,2026-04-01 21:38:58.421075,DataLake
+697,Rowlett Bikes,Rowlett,TX,Trek Fuel EX 9.8 27.5 Plus - 2017,Trek,Mountain Bikes,2017,5299.99,26,2026-04-01 21:38:58.421075,DataLake
+698,Rowlett Bikes,Rowlett,TX,Haro SR 1.1 - 2017,Haro,Mountain Bikes,2017,539.99,26,2026-04-01 21:38:58.421075,DataLake
+699,Rowlett Bikes,Rowlett,TX,Haro SR 1.2 - 2017,Haro,Mountain Bikes,2017,869.99,1,2026-04-01 21:38:58.421075,DataLake
+700,Rowlett Bikes,Rowlett,TX,Haro SR 1.3 - 2017,Haro,Mountain Bikes,2017,1409.99,16,2026-04-01 21:38:58.421075,DataLake
+701,Rowlett Bikes,Rowlett,TX,Trek Remedy 9.8 - 2017,Trek,Mountain Bikes,2017,5299.99,14,2026-04-01 21:38:58.421075,DataLake
+702,Rowlett Bikes,Rowlett,TX,Trek Emonda S 4 - 2017,Trek,Road Bikes,2017,1499.99,2,2026-04-01 21:38:58.421075,DataLake
+703,Rowlett Bikes,Rowlett,TX,Trek Domane SL 6 - 2017,Trek,Road Bikes,2017,3499.99,4,2026-04-01 21:38:58.421075,DataLake
+704,Rowlett Bikes,Rowlett,TX,Trek Silque SLR 7 Women's - 2017,Trek,Road Bikes,2017,5999.99,25,2026-04-01 21:38:58.421075,DataLake
+705,Rowlett Bikes,Rowlett,TX,Trek Silque SLR 8 Women's - 2017,Trek,Road Bikes,2017,6499.99,2,2026-04-01 21:38:58.421075,DataLake
+706,Rowlett Bikes,Rowlett,TX,Surly Steamroller - 2017,Surly,Road Bikes,2017,875.99,8,2026-04-01 21:38:58.421075,DataLake
+707,Rowlett Bikes,Rowlett,TX,Surly Ogre Frameset - 2017,Surly,Road Bikes,2017,749.99,6,2026-04-01 21:38:58.421075,DataLake
+708,Rowlett Bikes,Rowlett,TX,Trek Domane SL Disc Frameset - 2017,Trek,Road Bikes,2017,3199.99,13,2026-04-01 21:38:58.421075,DataLake
+709,Rowlett Bikes,Rowlett,TX,Trek Domane S 6 - 2017,Trek,Road Bikes,2017,2699.99,5,2026-04-01 21:38:58.421075,DataLake
+710,Rowlett Bikes,Rowlett,TX,Trek Domane SLR 6 Disc - 2017,Trek,Road Bikes,2017,5499.99,19,2026-04-01 21:38:58.421075,DataLake
+711,Rowlett Bikes,Rowlett,TX,Trek Emonda S 5 - 2017,Trek,Road Bikes,2017,1999.99,9,2026-04-01 21:38:58.421075,DataLake
+712,Rowlett Bikes,Rowlett,TX,Trek Madone 9.2 - 2017,Trek,Road Bikes,2017,4999.99,27,2026-04-01 21:38:58.421075,DataLake
+713,Rowlett Bikes,Rowlett,TX,Trek Domane S 5 Disc - 2017,Trek,Road Bikes,2017,2599.99,0,2026-04-01 21:38:58.421075,DataLake
+714,Rowlett Bikes,Rowlett,TX,Sun Bicycles ElectroLite - 2017,Sun Bicycles,Electric Bikes,2017,1559.99,7,2026-04-01 21:38:58.421075,DataLake
+715,Rowlett Bikes,Rowlett,TX,Trek Powerfly 8 FS Plus - 2017,Trek,Electric Bikes,2017,4999.99,28,2026-04-01 21:38:58.421075,DataLake
+716,Rowlett Bikes,Rowlett,TX,Trek Boone 7 - 2017,Trek,Cyclocross Bicycles,2017,3499.99,4,2026-04-01 21:38:58.421075,DataLake
+717,Rowlett Bikes,Rowlett,TX,Trek Boone Race Shop Limited - 2017,Trek,Cyclocross Bicycles,2017,3499.99,8,2026-04-01 21:38:58.421075,DataLake
+718,Rowlett Bikes,Rowlett,TX,Electra Townie Original 7D - 2017,Electra,Cruisers Bicycles,2017,489.99,22,2026-04-01 21:38:58.421075,DataLake
+719,Rowlett Bikes,Rowlett,TX,Sun Bicycles Lil Bolt Type-R - 2017,Sun Bicycles,Cruisers Bicycles,2017,346.99,1,2026-04-01 21:38:58.421075,DataLake
+720,Rowlett Bikes,Rowlett,TX,Sun Bicycles Revolutions 24 - 2017,Sun Bicycles,Cruisers Bicycles,2017,250.99,3,2026-04-01 21:38:58.421075,DataLake
+721,Rowlett Bikes,Rowlett,TX,Sun Bicycles Revolutions 24 - Girl's - 2017,Sun Bicycles,Cruisers Bicycles,2017,250.99,6,2026-04-01 21:38:58.421075,DataLake
+722,Rowlett Bikes,Rowlett,TX,Sun Bicycles Cruz 3 - 2017,Sun Bicycles,Cruisers Bicycles,2017,449.99,18,2026-04-01 21:38:58.421075,DataLake
+723,Rowlett Bikes,Rowlett,TX,Sun Bicycles Cruz 7 - 2017,Sun Bicycles,Cruisers Bicycles,2017,416.99,29,2026-04-01 21:38:58.421075,DataLake
+724,Rowlett Bikes,Rowlett,TX,Electra Amsterdam Original 3i - 2015/2017,Electra,Cruisers Bicycles,2017,659.99,2,2026-04-01 21:38:58.421075,DataLake
+725,Rowlett Bikes,Rowlett,TX,Sun Bicycles Atlas X-Type - 2017,Sun Bicycles,Cruisers Bicycles,2017,416.99,13,2026-04-01 21:38:58.421075,DataLake
+726,Rowlett Bikes,Rowlett,TX,Sun Bicycles Biscayne Tandem 7 - 2017,Sun Bicycles,Cruisers Bicycles,2017,619.99,6,2026-04-01 21:38:58.421075,DataLake
+727,Rowlett Bikes,Rowlett,TX,Sun Bicycles Brickell Tandem 7 - 2017,Sun Bicycles,Cruisers Bicycles,2017,749.99,3,2026-04-01 21:38:58.421075,DataLake
+728,Rowlett Bikes,Rowlett,TX,Electra Cruiser Lux 1 - 2017,Electra,Cruisers Bicycles,2017,439.99,17,2026-04-01 21:38:58.421075,DataLake
+729,Rowlett Bikes,Rowlett,TX,Electra Cruiser Lux Fat Tire 1 Ladies - 2017,Electra,Cruisers Bicycles,2017,599.99,29,2026-04-01 21:38:58.421075,DataLake
+730,Rowlett Bikes,Rowlett,TX,"Electra Girl's Hawaii 1 16"" - 2017",Electra,Cruisers Bicycles,2017,299.99,23,2026-04-01 21:38:58.421075,DataLake
+731,Rowlett Bikes,Rowlett,TX,Electra Glam Punk 3i Ladies' - 2017,Electra,Cruisers Bicycles,2017,799.99,23,2026-04-01 21:38:58.421075,DataLake
+732,Rowlett Bikes,Rowlett,TX,Sun Bicycles Biscayne Tandem CB - 2017,Sun Bicycles,Cruisers Bicycles,2017,647.99,19,2026-04-01 21:38:58.421075,DataLake
+733,Rowlett Bikes,Rowlett,TX,Sun Bicycles Boardwalk (24-inch Wheels) - 2017,Sun Bicycles,Cruisers Bicycles,2017,402.99,29,2026-04-01 21:38:58.421075,DataLake
+734,Rowlett Bikes,Rowlett,TX,Sun Bicycles Brickell Tandem CB - 2017,Sun Bicycles,Cruisers Bicycles,2017,761.99,22,2026-04-01 21:38:58.421075,DataLake
+735,Rowlett Bikes,Rowlett,TX,Electra Amsterdam Fashion 7i Ladies' - 2017,Electra,Cruisers Bicycles,2017,1099.99,18,2026-04-01 21:38:58.421075,DataLake
+736,Rowlett Bikes,Rowlett,TX,Electra Amsterdam Original 3i Ladies' - 2017,Electra,Cruisers Bicycles,2017,659.99,7,2026-04-01 21:38:58.421075,DataLake
+737,Rowlett Bikes,Rowlett,TX,Trek Boy's Kickster - 2015/2017,Trek,Children Bicycles,2017,149.99,23,2026-04-01 21:38:58.421075,DataLake
+738,Rowlett Bikes,Rowlett,TX,Sun Bicycles Lil Kitt'n - 2017,Sun Bicycles,Children Bicycles,2017,109.99,15,2026-04-01 21:38:58.421075,DataLake
+739,Rowlett Bikes,Rowlett,TX,Haro Downtown 16 - 2017,Haro,Children Bicycles,2017,329.99,15,2026-04-01 21:38:58.421075,DataLake
+740,Rowlett Bikes,Rowlett,TX,Trek Girl's Kickster - 2017,Trek,Children Bicycles,2017,149.99,27,2026-04-01 21:38:58.421075,DataLake
+741,Rowlett Bikes,Rowlett,TX,Trek Precaliber 12 Boys - 2017,Trek,Children Bicycles,2017,189.99,16,2026-04-01 21:38:58.421075,DataLake
+742,Rowlett Bikes,Rowlett,TX,Trek Precaliber 12 Girls - 2017,Trek,Children Bicycles,2017,189.99,28,2026-04-01 21:38:58.421075,DataLake
+743,Rowlett Bikes,Rowlett,TX,Trek Precaliber 16 Boys - 2017,Trek,Children Bicycles,2017,209.99,22,2026-04-01 21:38:58.421075,DataLake
+744,Rowlett Bikes,Rowlett,TX,Trek Precaliber 16 Girls - 2017,Trek,Children Bicycles,2017,209.99,9,2026-04-01 21:38:58.421075,DataLake
+745,Rowlett Bikes,Rowlett,TX,Trek Precaliber 24 (21-Speed) - Girls - 2017,Trek,Children Bicycles,2017,349.99,8,2026-04-01 21:38:58.421075,DataLake
+746,Rowlett Bikes,Rowlett,TX,Haro Shredder 20 - 2017,Haro,Children Bicycles,2017,209.99,28,2026-04-01 21:38:58.421075,DataLake
+747,Rowlett Bikes,Rowlett,TX,Haro Shredder 20 - 2017,Haro,Children Bicycles,2017,209.99,28,2026-04-01 21:38:58.421075,DataLake
+748,Rowlett Bikes,Rowlett,TX,Haro Shredder 20 Girls - 2017,Haro,Children Bicycles,2017,209.99,18,2026-04-01 21:38:58.421075,DataLake
+749,Rowlett Bikes,Rowlett,TX,Haro Shredder 20 Girls - 2017,Haro,Children Bicycles,2017,209.99,18,2026-04-01 21:38:58.421075,DataLake
+750,Rowlett Bikes,Rowlett,TX,Haro Shredder Pro 20 - 2017,Haro,Children Bicycles,2017,249.99,15,2026-04-01 21:38:58.421075,DataLake
+751,Rowlett Bikes,Rowlett,TX,Haro Shredder Pro 20 - 2017,Haro,Children Bicycles,2017,249.99,15,2026-04-01 21:38:58.421075,DataLake
+752,Rowlett Bikes,Rowlett,TX,"Electra Girl's Hawaii 1 16"" - 2017",Electra,Children Bicycles,2017,299.99,14,2026-04-01 21:38:58.421075,DataLake
+753,Rowlett Bikes,Rowlett,TX,Electra Moto 3i (20-inch) - Boy's - 2017,Electra,Children Bicycles,2017,349.99,1,2026-04-01 21:38:58.421075,DataLake
+754,Rowlett Bikes,Rowlett,TX,Electra Savannah 3i (20-inch) - Girl's - 2017,Electra,Children Bicycles,2017,349.99,28,2026-04-01 21:38:58.421075,DataLake
+755,Rowlett Bikes,Rowlett,TX,Electra Straight 8 3i (20-inch) - Boy's - 2017,Electra,Children Bicycles,2017,489.99,5,2026-04-01 21:38:58.421075,DataLake
+756,Rowlett Bikes,Rowlett,TX,Electra Sugar Skulls 1 (20-inch) - Girl's - 2017,Electra,Children Bicycles,2017,299.99,19,2026-04-01 21:38:58.421075,DataLake
+757,Rowlett Bikes,Rowlett,TX,Electra Townie 3i EQ (20-inch) - Boys' - 2017,Electra,Children Bicycles,2017,489.99,28,2026-04-01 21:38:58.421075,DataLake
+758,Rowlett Bikes,Rowlett,TX,Electra Townie 7D (20-inch) - Boys' - 2017,Electra,Children Bicycles,2017,339.99,17,2026-04-01 21:38:58.421075,DataLake
+759,Rowlett Bikes,Rowlett,TX,Electra Townie Original 7D - 2017,Electra,Comfort Bicycles,2017,489.99,22,2026-04-01 21:38:58.421075,DataLake
+760,Rowlett Bikes,Rowlett,TX,Sun Bicycles Streamway 3 - 2017,Sun Bicycles,Comfort Bicycles,2017,551.99,10,2026-04-01 21:38:58.421075,DataLake
+761,Rowlett Bikes,Rowlett,TX,Sun Bicycles Streamway - 2017,Sun Bicycles,Comfort Bicycles,2017,481.99,22,2026-04-01 21:38:58.421075,DataLake
+762,Rowlett Bikes,Rowlett,TX,Sun Bicycles Streamway 7 - 2017,Sun Bicycles,Comfort Bicycles,2017,533.99,1,2026-04-01 21:38:58.421075,DataLake
+763,Rowlett Bikes,Rowlett,TX,Sun Bicycles Cruz 3 - 2017,Sun Bicycles,Comfort Bicycles,2017,449.99,1,2026-04-01 21:38:58.421075,DataLake
+764,Rowlett Bikes,Rowlett,TX,Sun Bicycles Cruz 7 - 2017,Sun Bicycles,Comfort Bicycles,2017,416.99,11,2026-04-01 21:38:58.421075,DataLake
+765,Rowlett Bikes,Rowlett,TX,Sun Bicycles Cruz 3 - Women's - 2017,Sun Bicycles,Comfort Bicycles,2017,449.99,23,2026-04-01 21:38:58.421075,DataLake
+766,Rowlett Bikes,Rowlett,TX,Sun Bicycles Cruz 7 - Women's - 2017,Sun Bicycles,Comfort Bicycles,2017,416.99,24,2026-04-01 21:38:58.421075,DataLake
+767,Rowlett Bikes,Rowlett,TX,Sun Bicycles Drifter 7 - 2017,Sun Bicycles,Comfort Bicycles,2017,470.99,11,2026-04-01 21:38:58.421075,DataLake
+768,Rowlett Bikes,Rowlett,TX,Sun Bicycles Drifter 7 - Women's - 2017,Sun Bicycles,Comfort Bicycles,2017,470.99,29,2026-04-01 21:38:58.421075,DataLake
+769,Rowlett Bikes,Rowlett,TX,Trek 820 - 2018,Trek,Mountain Bikes,2018,379.99,24,2026-04-01 21:38:58.421075,DataLake
+770,Rowlett Bikes,Rowlett,TX,Trek Marlin 5 - 2018,Trek,Mountain Bikes,2018,489.99,23,2026-04-01 21:38:58.421075,DataLake
+771,Rowlett Bikes,Rowlett,TX,Trek Marlin 6 - 2018,Trek,Mountain Bikes,2018,579.99,12,2026-04-01 21:38:58.421075,DataLake
+772,Rowlett Bikes,Rowlett,TX,Trek Fuel EX 8 29 - 2018,Trek,Mountain Bikes,2018,3199.99,25,2026-04-01 21:38:58.421075,DataLake
+773,Rowlett Bikes,Rowlett,TX,Trek Marlin 7 - 2017/2018,Trek,Mountain Bikes,2018,749.99,30,2026-04-01 21:38:58.421075,DataLake
+774,Rowlett Bikes,Rowlett,TX,Trek Ticket S Frame - 2018,Trek,Mountain Bikes,2018,1469.99,23,2026-04-01 21:38:58.421075,DataLake
+775,Rowlett Bikes,Rowlett,TX,Trek X-Caliber 8 - 2018,Trek,Mountain Bikes,2018,999.99,9,2026-04-01 21:38:58.421075,DataLake
+776,Rowlett Bikes,Rowlett,TX,Trek Kids' Neko - 2018,Trek,Mountain Bikes,2018,469.99,29,2026-04-01 21:38:58.421075,DataLake
+777,Rowlett Bikes,Rowlett,TX,Trek Fuel EX 7 29 - 2018,Trek,Mountain Bikes,2018,2499.99,25,2026-04-01 21:38:58.421075,DataLake
+778,Rowlett Bikes,Rowlett,TX,Surly Krampus Frameset - 2018,Surly,Mountain Bikes,2018,2499.99,4,2026-04-01 21:38:58.421075,DataLake
+779,Rowlett Bikes,Rowlett,TX,Surly Troll Frameset - 2018,Surly,Mountain Bikes,2018,2499.99,8,2026-04-01 21:38:58.421075,DataLake
+780,Rowlett Bikes,Rowlett,TX,Trek Farley Carbon Frameset - 2018,Trek,Mountain Bikes,2018,999.99,15,2026-04-01 21:38:58.421075,DataLake
+781,Rowlett Bikes,Rowlett,TX,Surly Krampus - 2018,Surly,Mountain Bikes,2018,1499.0,11,2026-04-01 21:38:58.421075,DataLake
+782,Rowlett Bikes,Rowlett,TX,Trek Kids' Dual Sport - 2018,Trek,Mountain Bikes,2018,469.99,2,2026-04-01 21:38:58.421075,DataLake
+783,Rowlett Bikes,Rowlett,TX,Surly Big Fat Dummy Frameset - 2018,Surly,Mountain Bikes,2018,469.99,5,2026-04-01 21:38:58.421075,DataLake
+784,Rowlett Bikes,Rowlett,TX,Surly Pack Rat Frameset - 2018,Surly,Mountain Bikes,2018,469.99,4,2026-04-01 21:38:58.421075,DataLake
+785,Rowlett Bikes,Rowlett,TX,Surly ECR 27.5 - 2018,Surly,Mountain Bikes,2018,1899.0,20,2026-04-01 21:38:58.421075,DataLake
+786,Rowlett Bikes,Rowlett,TX,Trek X-Caliber 7 - 2018,Trek,Mountain Bikes,2018,919.99,10,2026-04-01 21:38:58.421075,DataLake
+787,Rowlett Bikes,Rowlett,TX,Trek Stache Carbon Frameset - 2018,Trek,Mountain Bikes,2018,919.99,20,2026-04-01 21:38:58.421075,DataLake
+788,Rowlett Bikes,Rowlett,TX,Heller Bloodhound Trail - 2018,Heller,Mountain Bikes,2018,2599.0,23,2026-04-01 21:38:58.421075,DataLake
+789,Rowlett Bikes,Rowlett,TX,Trek Procal AL Frameset - 2018,Trek,Mountain Bikes,2018,1499.99,16,2026-04-01 21:38:58.421075,DataLake
+790,Rowlett Bikes,Rowlett,TX,Trek Procaliber Frameset - 2018,Trek,Mountain Bikes,2018,1499.99,16,2026-04-01 21:38:58.421075,DataLake
+791,Rowlett Bikes,Rowlett,TX,Trek Remedy 27.5 C Frameset - 2018,Trek,Mountain Bikes,2018,1499.99,17,2026-04-01 21:38:58.421075,DataLake
+792,Rowlett Bikes,Rowlett,TX,Trek X-Caliber Frameset - 2018,Trek,Mountain Bikes,2018,1499.99,15,2026-04-01 21:38:58.421075,DataLake
+793,Rowlett Bikes,Rowlett,TX,Trek Procaliber 6 - 2018,Trek,Mountain Bikes,2018,1799.99,4,2026-04-01 21:38:58.421075,DataLake
+794,Rowlett Bikes,Rowlett,TX,Heller Shagamaw GX1 - 2018,Heller,Mountain Bikes,2018,2599.0,17,2026-04-01 21:38:58.421075,DataLake
+795,Rowlett Bikes,Rowlett,TX,Trek Fuel EX 5 Plus - 2018,Trek,Mountain Bikes,2018,2249.99,17,2026-04-01 21:38:58.421075,DataLake
+796,Rowlett Bikes,Rowlett,TX,Trek Remedy 7 27.5 - 2018,Trek,Mountain Bikes,2018,2999.99,21,2026-04-01 21:38:58.421075,DataLake
+797,Rowlett Bikes,Rowlett,TX,Trek Remedy 9.8 27.5 - 2018,Trek,Mountain Bikes,2018,4999.99,3,2026-04-01 21:38:58.421075,DataLake
+798,Rowlett Bikes,Rowlett,TX,Trek Stache 5 - 2018,Trek,Mountain Bikes,2018,1599.99,4,2026-04-01 21:38:58.421075,DataLake
+799,Rowlett Bikes,Rowlett,TX,Trek Fuel EX 8 29 XT - 2018,Trek,Mountain Bikes,2018,3199.99,29,2026-04-01 21:38:58.421075,DataLake
+800,Rowlett Bikes,Rowlett,TX,Trek Domane ALR 3 - 2018,Trek,Road Bikes,2018,1099.99,9,2026-04-01 21:38:58.421075,DataLake
+801,Rowlett Bikes,Rowlett,TX,Trek Domane ALR 4 Disc - 2018,Trek,Road Bikes,2018,1549.99,9,2026-04-01 21:38:58.421075,DataLake
+802,Rowlett Bikes,Rowlett,TX,Trek Domane ALR 5 Disc - 2018,Trek,Road Bikes,2018,1799.99,11,2026-04-01 21:38:58.421075,DataLake
+803,Rowlett Bikes,Rowlett,TX,Trek Domane SLR 6 - 2018,Trek,Road Bikes,2018,4999.99,9,2026-04-01 21:38:58.421075,DataLake
+804,Rowlett Bikes,Rowlett,TX,Trek Domane ALR 5 Gravel - 2018,Trek,Road Bikes,2018,1799.99,3,2026-04-01 21:38:58.421075,DataLake
+805,Rowlett Bikes,Rowlett,TX,Trek Domane SL 8 Disc - 2018,Trek,Road Bikes,2018,5499.99,6,2026-04-01 21:38:58.421075,DataLake
+806,Rowlett Bikes,Rowlett,TX,Trek Domane SLR 8 Disc - 2018,Trek,Road Bikes,2018,7499.99,1,2026-04-01 21:38:58.421075,DataLake
+807,Rowlett Bikes,Rowlett,TX,Trek Emonda SL 7 - 2018,Trek,Road Bikes,2018,4499.99,21,2026-04-01 21:38:58.421075,DataLake
+808,Rowlett Bikes,Rowlett,TX,Trek Domane ALR 4 Disc Women's - 2018,Trek,Road Bikes,2018,1549.99,1,2026-04-01 21:38:58.421075,DataLake
+809,Rowlett Bikes,Rowlett,TX,Trek Domane SL 5 Disc Women's - 2018,Trek,Road Bikes,2018,2499.99,1,2026-04-01 21:38:58.421075,DataLake
+810,Rowlett Bikes,Rowlett,TX,Trek Domane SL 7 Women's - 2018,Trek,Road Bikes,2018,4999.99,7,2026-04-01 21:38:58.421075,DataLake
+811,Rowlett Bikes,Rowlett,TX,Trek Domane SLR 6 Disc Women's - 2018,Trek,Road Bikes,2018,5499.99,22,2026-04-01 21:38:58.421075,DataLake
+812,Rowlett Bikes,Rowlett,TX,Trek Domane SLR 9 Disc - 2018,Trek,Road Bikes,2018,11999.99,25,2026-04-01 21:38:58.421075,DataLake
+813,Rowlett Bikes,Rowlett,TX,Trek Domane SL Frameset - 2018,Trek,Road Bikes,2018,6499.99,14,2026-04-01 21:38:58.421075,DataLake
+814,Rowlett Bikes,Rowlett,TX,Trek Domane SL Frameset Women's - 2018,Trek,Road Bikes,2018,6499.99,12,2026-04-01 21:38:58.421075,DataLake
+815,Rowlett Bikes,Rowlett,TX,Trek CrossRip 1 - 2018,Trek,Road Bikes,2018,959.99,17,2026-04-01 21:38:58.421075,DataLake
+816,Rowlett Bikes,Rowlett,TX,Trek Emonda ALR 6 - 2018,Trek,Road Bikes,2018,2299.99,6,2026-04-01 21:38:58.421075,DataLake
+817,Rowlett Bikes,Rowlett,TX,Trek Emonda SLR 6 - 2018,Trek,Road Bikes,2018,4499.99,27,2026-04-01 21:38:58.421075,DataLake
+818,Rowlett Bikes,Rowlett,TX,Surly ECR - 2018,Surly,Road Bikes,2018,1899.0,11,2026-04-01 21:38:58.421075,DataLake
+819,Rowlett Bikes,Rowlett,TX,Trek Emonda SL 6 Disc - 2018,Trek,Road Bikes,2018,2999.99,11,2026-04-01 21:38:58.421075,DataLake
+820,Rowlett Bikes,Rowlett,TX,Surly Pack Rat - 2018,Surly,Road Bikes,2018,1349.0,11,2026-04-01 21:38:58.421075,DataLake
+821,Rowlett Bikes,Rowlett,TX,Surly Straggler 650b - 2018,Surly,Road Bikes,2018,1549.0,18,2026-04-01 21:38:58.421075,DataLake
+822,Rowlett Bikes,Rowlett,TX,Trek 1120 - 2018,Trek,Road Bikes,2018,2499.99,19,2026-04-01 21:38:58.421075,DataLake
+823,Rowlett Bikes,Rowlett,TX,Trek Domane AL 2 Women's - 2018,Trek,Road Bikes,2018,749.99,27,2026-04-01 21:38:58.421075,DataLake
+824,Rowlett Bikes,Rowlett,TX,Surly ECR Frameset - 2018,Surly,Road Bikes,2018,749.99,8,2026-04-01 21:38:58.421075,DataLake
+825,Rowlett Bikes,Rowlett,TX,Surly Straggler - 2018,Surly,Road Bikes,2018,1549.0,23,2026-04-01 21:38:58.421075,DataLake
+826,Rowlett Bikes,Rowlett,TX,Trek Emonda SLR 8 - 2018,Trek,Road Bikes,2018,6499.99,3,2026-04-01 21:38:58.421075,DataLake
+827,Rowlett Bikes,Rowlett,TX,Trek CrossRip 2 - 2018,Trek,Road Bikes,2018,1299.99,13,2026-04-01 21:38:58.421075,DataLake
+828,Rowlett Bikes,Rowlett,TX,Trek Domane SL 6 - 2018,Trek,Road Bikes,2018,3199.99,11,2026-04-01 21:38:58.421075,DataLake
+829,Rowlett Bikes,Rowlett,TX,Trek Domane ALR Disc Frameset - 2018,Trek,Road Bikes,2018,3199.99,22,2026-04-01 21:38:58.421075,DataLake
+830,Rowlett Bikes,Rowlett,TX,Trek Domane ALR Frameset - 2018,Trek,Road Bikes,2018,3199.99,15,2026-04-01 21:38:58.421075,DataLake
+831,Rowlett Bikes,Rowlett,TX,Trek Domane SLR Disc Frameset - 2018,Trek,Road Bikes,2018,3199.99,1,2026-04-01 21:38:58.421075,DataLake
+832,Rowlett Bikes,Rowlett,TX,Trek Domane SLR Frameset - 2018,Trek,Road Bikes,2018,3199.99,3,2026-04-01 21:38:58.421075,DataLake
+833,Rowlett Bikes,Rowlett,TX,Trek Madone 9 Frameset - 2018,Trek,Road Bikes,2018,3199.99,6,2026-04-01 21:38:58.421075,DataLake
+834,Rowlett Bikes,Rowlett,TX,Trek Domane SLR 6 Disc - 2018,Trek,Road Bikes,2018,5499.99,2,2026-04-01 21:38:58.421075,DataLake
+835,Rowlett Bikes,Rowlett,TX,Trek Domane AL 2 - 2018,Trek,Road Bikes,2018,749.99,12,2026-04-01 21:38:58.421075,DataLake
+836,Rowlett Bikes,Rowlett,TX,Trek Domane AL 3 - 2018,Trek,Road Bikes,2018,919.99,20,2026-04-01 21:38:58.421075,DataLake
+837,Rowlett Bikes,Rowlett,TX,Trek Domane AL 3 Women's - 2018,Trek,Road Bikes,2018,919.99,6,2026-04-01 21:38:58.421075,DataLake
+838,Rowlett Bikes,Rowlett,TX,Trek Domane SL 5 - 2018,Trek,Road Bikes,2018,2199.99,8,2026-04-01 21:38:58.421075,DataLake
+839,Rowlett Bikes,Rowlett,TX,Trek Domane SL 5 Disc - 2018,Trek,Road Bikes,2018,2499.99,28,2026-04-01 21:38:58.421075,DataLake
+840,Rowlett Bikes,Rowlett,TX,Trek Domane SL 5 Women's - 2018,Trek,Road Bikes,2018,2199.99,26,2026-04-01 21:38:58.421075,DataLake
+841,Rowlett Bikes,Rowlett,TX,Trek Domane SL 6 Disc - 2018,Trek,Road Bikes,2018,3499.99,21,2026-04-01 21:38:58.421075,DataLake
+842,Rowlett Bikes,Rowlett,TX,Trek Conduit+ - 2018,Trek,Electric Bikes,2018,2799.99,15,2026-04-01 21:38:58.421075,DataLake
+843,Rowlett Bikes,Rowlett,TX,Trek CrossRip+ - 2018,Trek,Electric Bikes,2018,4499.99,30,2026-04-01 21:38:58.421075,DataLake
+844,Rowlett Bikes,Rowlett,TX,Trek Neko+ - 2018,Trek,Electric Bikes,2018,2799.99,2,2026-04-01 21:38:58.421075,DataLake
+845,Rowlett Bikes,Rowlett,TX,Trek XM700+ Lowstep - 2018,Trek,Electric Bikes,2018,3499.99,29,2026-04-01 21:38:58.421075,DataLake
+846,Rowlett Bikes,Rowlett,TX,Trek XM700+ Lowstep - 2018,Trek,Electric Bikes,2018,3499.99,29,2026-04-01 21:38:58.421075,DataLake
+847,Rowlett Bikes,Rowlett,TX,Trek Lift+ Lowstep - 2018,Trek,Electric Bikes,2018,2799.99,20,2026-04-01 21:38:58.421075,DataLake
+848,Rowlett Bikes,Rowlett,TX,Trek Lift+ Lowstep - 2018,Trek,Electric Bikes,2018,2799.99,20,2026-04-01 21:38:58.421075,DataLake
+849,Rowlett Bikes,Rowlett,TX,Trek Dual Sport+ - 2018,Trek,Electric Bikes,2018,2799.99,20,2026-04-01 21:38:58.421075,DataLake
+850,Rowlett Bikes,Rowlett,TX,Trek Dual Sport+ - 2018,Trek,Electric Bikes,2018,2799.99,20,2026-04-01 21:38:58.421075,DataLake
+851,Rowlett Bikes,Rowlett,TX,Electra Loft Go! 8i - 2018,Electra,Electric Bikes,2018,2799.99,23,2026-04-01 21:38:58.421075,DataLake
+852,Rowlett Bikes,Rowlett,TX,Electra Townie Go! 8i - 2017/2018,Electra,Electric Bikes,2018,2599.99,10,2026-04-01 21:38:58.421075,DataLake
+853,Rowlett Bikes,Rowlett,TX,Trek Lift+ - 2018,Trek,Electric Bikes,2018,2799.99,5,2026-04-01 21:38:58.421075,DataLake
+854,Rowlett Bikes,Rowlett,TX,Trek XM700+ - 2018,Trek,Electric Bikes,2018,3499.99,20,2026-04-01 21:38:58.421075,DataLake
+855,Rowlett Bikes,Rowlett,TX,Electra Townie Go! 8i Ladies' - 2018,Electra,Electric Bikes,2018,2599.99,20,2026-04-01 21:38:58.421075,DataLake
+856,Rowlett Bikes,Rowlett,TX,Trek Verve+ - 2018,Trek,Electric Bikes,2018,2299.99,25,2026-04-01 21:38:58.421075,DataLake
+857,Rowlett Bikes,Rowlett,TX,Trek Verve+ Lowstep - 2018,Trek,Electric Bikes,2018,2299.99,8,2026-04-01 21:38:58.421075,DataLake
+858,Rowlett Bikes,Rowlett,TX,Electra Townie Commute Go! - 2018,Electra,Electric Bikes,2018,2999.99,27,2026-04-01 21:38:58.421075,DataLake
+859,Rowlett Bikes,Rowlett,TX,Electra Townie Commute Go! Ladies' - 2018,Electra,Electric Bikes,2018,2999.99,5,2026-04-01 21:38:58.421075,DataLake
+860,Rowlett Bikes,Rowlett,TX,Trek Powerfly 5 - 2018,Trek,Electric Bikes,2018,3499.99,29,2026-04-01 21:38:58.421075,DataLake
+861,Rowlett Bikes,Rowlett,TX,Trek Powerfly 5 FS - 2018,Trek,Electric Bikes,2018,4499.99,30,2026-04-01 21:38:58.421075,DataLake
+862,Rowlett Bikes,Rowlett,TX,Trek Powerfly 5 Women's - 2018,Trek,Electric Bikes,2018,3499.99,11,2026-04-01 21:38:58.421075,DataLake
+863,Rowlett Bikes,Rowlett,TX,Trek Powerfly 7 FS - 2018,Trek,Electric Bikes,2018,4999.99,6,2026-04-01 21:38:58.421075,DataLake
+864,Rowlett Bikes,Rowlett,TX,Trek Super Commuter+ 7 - 2018,Trek,Electric Bikes,2018,3599.99,16,2026-04-01 21:38:58.421075,DataLake
+865,Rowlett Bikes,Rowlett,TX,Trek Super Commuter+ 8S - 2018,Trek,Electric Bikes,2018,4999.99,3,2026-04-01 21:38:58.421075,DataLake
+866,Rowlett Bikes,Rowlett,TX,Trek Boone 5 Disc - 2018,Trek,Cyclocross Bicycles,2018,3299.99,29,2026-04-01 21:38:58.421075,DataLake
+867,Rowlett Bikes,Rowlett,TX,Trek Boone 7 Disc - 2018,Trek,Cyclocross Bicycles,2018,3999.99,29,2026-04-01 21:38:58.421075,DataLake
+868,Rowlett Bikes,Rowlett,TX,Trek Crockett 5 Disc - 2018,Trek,Cyclocross Bicycles,2018,1799.99,12,2026-04-01 21:38:58.421075,DataLake
+869,Rowlett Bikes,Rowlett,TX,Trek Crockett 7 Disc - 2018,Trek,Cyclocross Bicycles,2018,2999.99,1,2026-04-01 21:38:58.421075,DataLake
+870,Rowlett Bikes,Rowlett,TX,Surly Straggler - 2018,Surly,Cyclocross Bicycles,2018,1549.0,22,2026-04-01 21:38:58.421075,DataLake
+871,Rowlett Bikes,Rowlett,TX,Surly Straggler 650b - 2018,Surly,Cyclocross Bicycles,2018,1549.0,3,2026-04-01 21:38:58.421075,DataLake
+872,Rowlett Bikes,Rowlett,TX,Electra Townie Original 21D - 2018,Electra,Cruisers Bicycles,2018,559.99,23,2026-04-01 21:38:58.421075,DataLake
+873,Rowlett Bikes,Rowlett,TX,Electra Cruiser 1 - 2016/2017/2018,Electra,Cruisers Bicycles,2018,269.99,10,2026-04-01 21:38:58.421075,DataLake
+874,Rowlett Bikes,Rowlett,TX,Electra Tiger Shark 3i - 2018,Electra,Cruisers Bicycles,2018,899.99,30,2026-04-01 21:38:58.421075,DataLake
+875,Rowlett Bikes,Rowlett,TX,Electra Queen of Hearts 3i - 2018,Electra,Cruisers Bicycles,2018,749.99,12,2026-04-01 21:38:58.421075,DataLake
+876,Rowlett Bikes,Rowlett,TX,Electra Super Moto 8i - 2018,Electra,Cruisers Bicycles,2018,899.99,5,2026-04-01 21:38:58.421075,DataLake
+877,Rowlett Bikes,Rowlett,TX,Electra Straight 8 3i - 2018,Electra,Cruisers Bicycles,2018,909.99,4,2026-04-01 21:38:58.421075,DataLake
+878,Rowlett Bikes,Rowlett,TX,Electra Cruiser 7D - 2016/2017/2018,Electra,Cruisers Bicycles,2018,319.99,21,2026-04-01 21:38:58.421075,DataLake
+879,Rowlett Bikes,Rowlett,TX,Electra Moto 3i - 2018,Electra,Cruisers Bicycles,2018,639.99,29,2026-04-01 21:38:58.421075,DataLake
+880,Rowlett Bikes,Rowlett,TX,Electra Cruiser 1 Ladies' - 2018,Electra,Cruisers Bicycles,2018,269.99,0,2026-04-01 21:38:58.421075,DataLake
+881,Rowlett Bikes,Rowlett,TX,Electra Cruiser 7D Ladies' - 2016/2018,Electra,Cruisers Bicycles,2018,319.99,25,2026-04-01 21:38:58.421075,DataLake
+882,Rowlett Bikes,Rowlett,TX,Electra Cruiser 1 Tall - 2016/2018,Electra,Cruisers Bicycles,2018,269.99,12,2026-04-01 21:38:58.421075,DataLake
+883,Rowlett Bikes,Rowlett,TX,Electra Cruiser Lux 3i - 2018,Electra,Cruisers Bicycles,2018,529.99,29,2026-04-01 21:38:58.421075,DataLake
+884,Rowlett Bikes,Rowlett,TX,Electra Cruiser Lux 7D - 2018,Electra,Cruisers Bicycles,2018,479.99,23,2026-04-01 21:38:58.421075,DataLake
+885,Rowlett Bikes,Rowlett,TX,Electra Delivery 3i - 2016/2017/2018,Electra,Cruisers Bicycles,2018,959.99,12,2026-04-01 21:38:58.421075,DataLake
+886,Rowlett Bikes,Rowlett,TX,Electra Townie Original 21D EQ - 2017/2018,Electra,Cruisers Bicycles,2018,679.99,14,2026-04-01 21:38:58.421075,DataLake
+887,Rowlett Bikes,Rowlett,TX,Electra Cruiser 7D (24-Inch) Ladies' - 2016/2018,Electra,Cruisers Bicycles,2018,319.99,22,2026-04-01 21:38:58.421075,DataLake
+888,Rowlett Bikes,Rowlett,TX,Electra Cruiser 7D Tall - 2016/2018,Electra,Cruisers Bicycles,2018,319.99,29,2026-04-01 21:38:58.421075,DataLake
+889,Rowlett Bikes,Rowlett,TX,Electra Cruiser Lux 1 - 2016/2018,Electra,Cruisers Bicycles,2018,429.99,7,2026-04-01 21:38:58.421075,DataLake
+890,Rowlett Bikes,Rowlett,TX,Electra Cruiser Lux 1 Ladies' - 2018,Electra,Cruisers Bicycles,2018,429.99,29,2026-04-01 21:38:58.421075,DataLake
+891,Rowlett Bikes,Rowlett,TX,Electra Cruiser Lux 3i Ladies' - 2018,Electra,Cruisers Bicycles,2018,529.99,6,2026-04-01 21:38:58.421075,DataLake
+892,Rowlett Bikes,Rowlett,TX,Electra Cruiser Lux 7D Ladies' - 2018,Electra,Cruisers Bicycles,2018,479.99,16,2026-04-01 21:38:58.421075,DataLake
+893,Rowlett Bikes,Rowlett,TX,Electra Cruiser Lux Fat Tire 7D - 2018,Electra,Cruisers Bicycles,2018,639.99,9,2026-04-01 21:38:58.421075,DataLake
+894,Rowlett Bikes,Rowlett,TX,Electra Daydreamer 3i Ladies' - 2018,Electra,Cruisers Bicycles,2018,899.99,24,2026-04-01 21:38:58.421075,DataLake
+895,Rowlett Bikes,Rowlett,TX,Electra Koa 3i Ladies' - 2018,Electra,Cruisers Bicycles,2018,899.99,1,2026-04-01 21:38:58.421075,DataLake
+896,Rowlett Bikes,Rowlett,TX,Electra Morningstar 3i Ladies' - 2018,Electra,Cruisers Bicycles,2018,749.99,3,2026-04-01 21:38:58.421075,DataLake
+897,Rowlett Bikes,Rowlett,TX,Electra Relic 3i - 2018,Electra,Cruisers Bicycles,2018,849.99,16,2026-04-01 21:38:58.421075,DataLake
+898,Rowlett Bikes,Rowlett,TX,Electra Townie Balloon 8D EQ - 2016/2017/2018,Electra,Cruisers Bicycles,2018,749.99,12,2026-04-01 21:38:58.421075,DataLake
+899,Rowlett Bikes,Rowlett,TX,Electra Townie Balloon 8D EQ Ladies' - 2016/2017/2018,Electra,Cruisers Bicycles,2018,749.99,29,2026-04-01 21:38:58.421075,DataLake
+900,Rowlett Bikes,Rowlett,TX,Electra Townie Commute 27D Ladies - 2018,Electra,Cruisers Bicycles,2018,899.99,26,2026-04-01 21:38:58.421075,DataLake
+901,Rowlett Bikes,Rowlett,TX,Electra Townie Commute 8D - 2018,Electra,Cruisers Bicycles,2018,749.99,8,2026-04-01 21:38:58.421075,DataLake
+902,Rowlett Bikes,Rowlett,TX,Electra Townie Commute 8D Ladies' - 2018,Electra,Cruisers Bicycles,2018,699.99,5,2026-04-01 21:38:58.421075,DataLake
+903,Rowlett Bikes,Rowlett,TX,Electra Townie Original 21D EQ Ladies' - 2018,Electra,Cruisers Bicycles,2018,679.99,7,2026-04-01 21:38:58.421075,DataLake
+904,Rowlett Bikes,Rowlett,TX,Electra Townie Original 21D Ladies' - 2018,Electra,Cruisers Bicycles,2018,559.99,5,2026-04-01 21:38:58.421075,DataLake
+905,Rowlett Bikes,Rowlett,TX,Electra Townie Original 3i EQ - 2017/2018,Electra,Cruisers Bicycles,2018,659.99,10,2026-04-01 21:38:58.421075,DataLake
+906,Rowlett Bikes,Rowlett,TX,Electra Townie Original 3i EQ Ladies' - 2018,Electra,Cruisers Bicycles,2018,639.99,7,2026-04-01 21:38:58.421075,DataLake
+907,Rowlett Bikes,Rowlett,TX,Electra Townie Original 7D EQ - 2018,Electra,Cruisers Bicycles,2018,599.99,3,2026-04-01 21:38:58.421075,DataLake
+908,Rowlett Bikes,Rowlett,TX,Electra Townie Original 7D EQ Ladies' - 2017/2018,Electra,Cruisers Bicycles,2018,599.99,11,2026-04-01 21:38:58.421075,DataLake
+909,Rowlett Bikes,Rowlett,TX,Electra White Water 3i - 2018,Electra,Cruisers Bicycles,2018,749.99,6,2026-04-01 21:38:58.421075,DataLake
+910,Rowlett Bikes,Rowlett,TX,Electra Townie Go! 8i - 2017/2018,Electra,Cruisers Bicycles,2018,2599.99,16,2026-04-01 21:38:58.421075,DataLake
+911,Rowlett Bikes,Rowlett,TX,Electra Townie Commute Go! - 2018,Electra,Cruisers Bicycles,2018,2999.99,10,2026-04-01 21:38:58.421075,DataLake
+912,Rowlett Bikes,Rowlett,TX,Electra Townie Commute Go! Ladies' - 2018,Electra,Cruisers Bicycles,2018,2999.99,27,2026-04-01 21:38:58.421075,DataLake
+913,Rowlett Bikes,Rowlett,TX,Electra Townie Go! 8i Ladies' - 2018,Electra,Cruisers Bicycles,2018,2599.99,15,2026-04-01 21:38:58.421075,DataLake
+914,Rowlett Bikes,Rowlett,TX,Electra Townie Balloon 3i EQ - 2017/2018,Electra,Cruisers Bicycles,2018,749.99,4,2026-04-01 21:38:58.421075,DataLake
+915,Rowlett Bikes,Rowlett,TX,Electra Townie Balloon 7i EQ Ladies' - 2017/2018,Electra,Cruisers Bicycles,2018,899.99,17,2026-04-01 21:38:58.421075,DataLake
+916,Rowlett Bikes,Rowlett,TX,Electra Townie Commute 27D - 2018,Electra,Cruisers Bicycles,2018,899.99,1,2026-04-01 21:38:58.421075,DataLake
+917,Rowlett Bikes,Rowlett,TX,Electra Amsterdam Fashion 3i Ladies' - 2017/2018,Electra,Cruisers Bicycles,2018,899.99,25,2026-04-01 21:38:58.421075,DataLake
+918,Rowlett Bikes,Rowlett,TX,Electra Amsterdam Royal 8i - 2017/2018,Electra,Cruisers Bicycles,2018,1259.9,10,2026-04-01 21:38:58.421075,DataLake
+919,Rowlett Bikes,Rowlett,TX,Electra Amsterdam Royal 8i Ladies - 2018,Electra,Cruisers Bicycles,2018,1199.99,0,2026-04-01 21:38:58.421075,DataLake
+920,Rowlett Bikes,Rowlett,TX,Electra Townie Balloon 3i EQ Ladies' - 2018,Electra,Cruisers Bicycles,2018,799.99,5,2026-04-01 21:38:58.421075,DataLake
+921,Rowlett Bikes,Rowlett,TX,Electra Townie Balloon 7i EQ - 2018,Electra,Cruisers Bicycles,2018,899.99,24,2026-04-01 21:38:58.421075,DataLake
+922,Rowlett Bikes,Rowlett,TX,Trek MT 201 - 2018,Trek,Children Bicycles,2018,249.99,29,2026-04-01 21:38:58.421075,DataLake
+923,Rowlett Bikes,Rowlett,TX,Strider Classic 12 Balance Bike - 2018,Strider,Children Bicycles,2018,89.99,21,2026-04-01 21:38:58.421075,DataLake
+924,Rowlett Bikes,Rowlett,TX,Strider Sport 16 - 2018,Strider,Children Bicycles,2018,249.99,7,2026-04-01 21:38:58.421075,DataLake
+925,Rowlett Bikes,Rowlett,TX,Strider Strider 20 Sport - 2018,Strider,Children Bicycles,2018,289.99,22,2026-04-01 21:38:58.421075,DataLake
+926,Rowlett Bikes,Rowlett,TX,Trek Superfly 20 - 2018,Trek,Children Bicycles,2018,399.99,18,2026-04-01 21:38:58.421075,DataLake
+927,Rowlett Bikes,Rowlett,TX,Trek Precaliber 12 Girl's - 2018,Trek,Children Bicycles,2018,199.99,12,2026-04-01 21:38:58.421075,DataLake
+928,Rowlett Bikes,Rowlett,TX,Trek Kickster - 2018,Trek,Children Bicycles,2018,159.99,17,2026-04-01 21:38:58.421075,DataLake
+929,Rowlett Bikes,Rowlett,TX,Trek Precaliber 12 Boy's - 2018,Trek,Children Bicycles,2018,199.99,26,2026-04-01 21:38:58.421075,DataLake
+930,Rowlett Bikes,Rowlett,TX,Trek Precaliber 16 Boy's - 2018,Trek,Children Bicycles,2018,209.99,6,2026-04-01 21:38:58.421075,DataLake
+931,Rowlett Bikes,Rowlett,TX,Trek Precaliber 16 Girl's - 2018,Trek,Children Bicycles,2018,209.99,23,2026-04-01 21:38:58.421075,DataLake
+932,Rowlett Bikes,Rowlett,TX,Trek Precaliber 20 6-speed Boy's - 2018,Trek,Children Bicycles,2018,289.99,12,2026-04-01 21:38:58.421075,DataLake
+933,Rowlett Bikes,Rowlett,TX,Trek Precaliber 20 6-speed Girl's - 2018,Trek,Children Bicycles,2018,289.99,19,2026-04-01 21:38:58.421075,DataLake
+934,Rowlett Bikes,Rowlett,TX,Trek Precaliber 20 Boy's - 2018,Trek,Children Bicycles,2018,229.99,7,2026-04-01 21:38:58.421075,DataLake
+935,Rowlett Bikes,Rowlett,TX,Trek Precaliber 20 Girl's - 2018,Trek,Children Bicycles,2018,229.99,23,2026-04-01 21:38:58.421075,DataLake
+936,Rowlett Bikes,Rowlett,TX,Trek Precaliber 24 (7-Speed) - Boys - 2018,Trek,Children Bicycles,2018,319.99,14,2026-04-01 21:38:58.421075,DataLake
+937,Rowlett Bikes,Rowlett,TX,Trek Precaliber 24 21-speed Boy's - 2018,Trek,Children Bicycles,2018,369.99,26,2026-04-01 21:38:58.421075,DataLake
+938,Rowlett Bikes,Rowlett,TX,Trek Precaliber 24 21-speed Girl's - 2018,Trek,Children Bicycles,2018,369.99,15,2026-04-01 21:38:58.421075,DataLake
+939,Rowlett Bikes,Rowlett,TX,Trek Precaliber 24 7-speed Girl's - 2018,Trek,Children Bicycles,2018,319.99,15,2026-04-01 21:38:58.421075,DataLake
+940,Rowlett Bikes,Rowlett,TX,Trek Superfly 24 - 2017/2018,Trek,Children Bicycles,2018,489.99,1,2026-04-01 21:38:58.421075,DataLake
+941,Rowlett Bikes,Rowlett,TX,Electra Cruiser 7D (24-Inch) Ladies' - 2016/2018,Electra,Children Bicycles,2018,319.99,2,2026-04-01 21:38:58.421075,DataLake
+942,Rowlett Bikes,Rowlett,TX,Electra Cyclosaurus 1 (16-inch) - Boy's - 2018,Electra,Children Bicycles,2018,279.99,18,2026-04-01 21:38:58.421075,DataLake
+943,Rowlett Bikes,Rowlett,TX,Electra Heartchya 1 (20-inch) - Girl's - 2018,Electra,Children Bicycles,2018,319.99,1,2026-04-01 21:38:58.421075,DataLake
+944,Rowlett Bikes,Rowlett,TX,Electra Savannah 1 (20-inch) - Girl's - 2018,Electra,Children Bicycles,2018,319.99,26,2026-04-01 21:38:58.421075,DataLake
+945,Rowlett Bikes,Rowlett,TX,Electra Soft Serve 1 (16-inch) - Girl's - 2018,Electra,Children Bicycles,2018,279.99,2,2026-04-01 21:38:58.421075,DataLake
+946,Rowlett Bikes,Rowlett,TX,"Electra Starship 1 16"" - 2018",Electra,Children Bicycles,2018,279.99,7,2026-04-01 21:38:58.421075,DataLake
+947,Rowlett Bikes,Rowlett,TX,Electra Straight 8 1 (16-inch) - Boy's - 2018,Electra,Children Bicycles,2018,279.99,26,2026-04-01 21:38:58.421075,DataLake
+948,Rowlett Bikes,Rowlett,TX,Electra Straight 8 1 (20-inch) - Boy's - 2018,Electra,Children Bicycles,2018,389.99,2,2026-04-01 21:38:58.421075,DataLake
+949,Rowlett Bikes,Rowlett,TX,"Electra Superbolt 1 20"" - 2018",Electra,Children Bicycles,2018,319.99,2,2026-04-01 21:38:58.421075,DataLake
+950,Rowlett Bikes,Rowlett,TX,"Electra Superbolt 3i 20"" - 2018",Electra,Children Bicycles,2018,369.99,6,2026-04-01 21:38:58.421075,DataLake
+951,Rowlett Bikes,Rowlett,TX,Electra Sweet Ride 1 (20-inch) - Girl's - 2018,Electra,Children Bicycles,2018,319.99,10,2026-04-01 21:38:58.421075,DataLake
+952,Rowlett Bikes,Rowlett,TX,Electra Sweet Ride 1 (20-inch) - Girl's - 2018,Electra,Children Bicycles,2018,319.99,10,2026-04-01 21:38:58.421075,DataLake
+953,Rowlett Bikes,Rowlett,TX,Electra Sweet Ride 3i (20-inch) - Girls' - 2018,Electra,Children Bicycles,2018,369.99,16,2026-04-01 21:38:58.421075,DataLake
+954,Rowlett Bikes,Rowlett,TX,Electra Sweet Ride 3i (20-inch) - Girls' - 2018,Electra,Children Bicycles,2018,369.99,16,2026-04-01 21:38:58.421075,DataLake
+955,Rowlett Bikes,Rowlett,TX,Electra Tiger Shark 1 (20-inch) - Boys' - 2018,Electra,Children Bicycles,2018,319.99,14,2026-04-01 21:38:58.421075,DataLake
+956,Rowlett Bikes,Rowlett,TX,Electra Tiger Shark 1 (20-inch) - Boys' - 2018,Electra,Children Bicycles,2018,319.99,14,2026-04-01 21:38:58.421075,DataLake
+957,Rowlett Bikes,Rowlett,TX,Electra Tiger Shark 3i (20-inch) - Boys' - 2018,Electra,Children Bicycles,2018,369.99,13,2026-04-01 21:38:58.421075,DataLake
+958,Rowlett Bikes,Rowlett,TX,Electra Tiger Shark 3i (20-inch) - Boys' - 2018,Electra,Children Bicycles,2018,369.99,13,2026-04-01 21:38:58.421075,DataLake
+959,Rowlett Bikes,Rowlett,TX,"Electra Treasure 1 20"" - 2018",Electra,Children Bicycles,2018,319.99,9,2026-04-01 21:38:58.421075,DataLake
+960,Rowlett Bikes,Rowlett,TX,"Electra Treasure 3i 20"" - 2018",Electra,Children Bicycles,2018,369.99,12,2026-04-01 21:38:58.421075,DataLake
+961,Rowlett Bikes,Rowlett,TX,"Electra Under-The-Sea 1 16"" - 2018",Electra,Children Bicycles,2018,279.99,22,2026-04-01 21:38:58.421075,DataLake
+962,Rowlett Bikes,Rowlett,TX,Electra Water Lily 1 (16-inch) - Girl's - 2018,Electra,Children Bicycles,2018,279.99,14,2026-04-01 21:38:58.421075,DataLake
+963,Rowlett Bikes,Rowlett,TX,Electra Townie Original 21D - 2018,Electra,Comfort Bicycles,2018,559.99,29,2026-04-01 21:38:58.421075,DataLake
+964,Rowlett Bikes,Rowlett,TX,Electra Townie Balloon 3i EQ Ladies' - 2018,Electra,Comfort Bicycles,2018,799.99,3,2026-04-01 21:38:58.421075,DataLake
+965,Rowlett Bikes,Rowlett,TX,Electra Townie Balloon 7i EQ - 2018,Electra,Comfort Bicycles,2018,899.99,29,2026-04-01 21:38:58.421075,DataLake
+966,Rowlett Bikes,Rowlett,TX,Electra Townie Original 1 - 2018,Electra,Comfort Bicycles,2018,449.99,6,2026-04-01 21:38:58.421075,DataLake
+967,Rowlett Bikes,Rowlett,TX,Electra Townie Go! 8i - 2017/2018,Electra,Comfort Bicycles,2018,2599.99,13,2026-04-01 21:38:58.421075,DataLake
+968,Rowlett Bikes,Rowlett,TX,Electra Townie Original 21D EQ - 2017/2018,Electra,Comfort Bicycles,2018,679.99,23,2026-04-01 21:38:58.421075,DataLake
+969,Rowlett Bikes,Rowlett,TX,Electra Townie Balloon 3i EQ - 2017/2018,Electra,Comfort Bicycles,2018,749.99,11,2026-04-01 21:38:58.421075,DataLake
+970,Rowlett Bikes,Rowlett,TX,Electra Townie Balloon 7i EQ Ladies' - 2017/2018,Electra,Comfort Bicycles,2018,899.99,7,2026-04-01 21:38:58.421075,DataLake
+971,Rowlett Bikes,Rowlett,TX,Electra Townie Balloon 8D EQ - 2016/2017/2018,Electra,Comfort Bicycles,2018,749.99,17,2026-04-01 21:38:58.421075,DataLake
+972,Rowlett Bikes,Rowlett,TX,Electra Townie Balloon 8D EQ Ladies' - 2016/2017/2018,Electra,Comfort Bicycles,2018,749.99,9,2026-04-01 21:38:58.421075,DataLake
+973,Rowlett Bikes,Rowlett,TX,Electra Townie Commute 27D - 2018,Electra,Comfort Bicycles,2018,899.99,30,2026-04-01 21:38:58.421075,DataLake
+974,Rowlett Bikes,Rowlett,TX,Electra Townie Commute 27D Ladies - 2018,Electra,Comfort Bicycles,2018,899.99,8,2026-04-01 21:38:58.421075,DataLake
+975,Rowlett Bikes,Rowlett,TX,Electra Townie Commute 8D - 2018,Electra,Comfort Bicycles,2018,749.99,23,2026-04-01 21:38:58.421075,DataLake
+976,Rowlett Bikes,Rowlett,TX,Electra Townie Commute 8D Ladies' - 2018,Electra,Comfort Bicycles,2018,699.99,18,2026-04-01 21:38:58.421075,DataLake
+977,Rowlett Bikes,Rowlett,TX,Electra Townie Original 1 Ladies' - 2018,Electra,Comfort Bicycles,2018,449.99,0,2026-04-01 21:38:58.421075,DataLake
