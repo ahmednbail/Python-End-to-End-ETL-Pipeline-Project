@@ -1,0 +1,11 @@
+SK_staff,BK_staff_id,first_name,last_name,email,phone,active,store_name,manager_id,full_name
+1,1,Fabiola,Jackson,fabiola.jackson@bikes.shop,Unknown,1,Unknown,0,Fabiola Jackson
+2,2,Mireya,,mireya.copeland@bikes.shop,(831) 555-5555,1,Santa Cruz Bikes,1,Mireya 
+3,3,Genna,Serrano,genna.serrano@bikes.shop,(831) 555-5556,1,Santa Cruz Bikes,2,Genna Serrano
+4,4,Virgie,Wiggins,virgie.wiggins@bikes.shop,(831) 555-5557,1,Santa Cruz Bikes,2,Virgie Wiggins
+5,5,Jannette,David,jannette.david@bikes.shop,(516) 379-4444,1,Baldwin Bikes,1,Jannette David
+6,6,Marcelene,Boyer,Unknown,(516) 379-4445,1,Baldwin Bikes,5,Marcelene Boyer
+7,7,Venita,Daniel,venita.daniel@bikes.shop,Unknown,1,Baldwin Bikes,5,Venita Daniel
+8,8,Kali,Vargas,kali.vargas@bikes.shop,(972) 530-5555,1,Rowlett Bikes,1,Kali Vargas
+9,9,Layla,Terrell,layla.terrell@bikes.shop,(972) 530-5556,1,Rowlett Bikes,7,Layla Terrell
+10,10,Bernardine,Houston,bernardine.houston@bikes.shop,(972) 530-5557,1,Rowlett Bikes,7,Bernardine Houston
